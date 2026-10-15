@@ -1,0 +1,4 @@
+item,unit,unit_price,currency,source,date
+OCR extraction,page,0.015,USD,https://aws.amazon.com/textract/pricing/ (Tables; US West Oregon),2026-10-09
+VLM targeted reread,row,0.00076,USD,"Estimated API equivalent for a queued row's cropped image; OpenAI GPT-6 Luna + Anthropic Claude Sonnet 5.5; see slides/course.qmd assumptions",2026-10-09
+VLM full-page comparison,page,,,Not run; comparison estimate only in slides/course.qmd,2026-10-09

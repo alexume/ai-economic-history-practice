@@ -1,0 +1,787 @@
+"cell","geography","holding","variable","literal_value","value_origin","aggregation","bound","column","row","unreadable","candidate"
+"162:15:7","Coahuila","en_poblaciones","vacunos_valor_fino","4 848 805","ocr",2,0,1,1,0,TRUE
+"162:16:3","Chihuahua","total","vacunos_cabezas_suma","1 193 281","ocr",2,0,1,1,0,TRUE
+"162:16:4","Chihuahua","total","vacunos_cabezas_fino","201 387","ocr",0,0,1,1,0,TRUE
+"162:18:3","Chihuahua","hasta_5ha","vacunos_cabezas_suma","30 881","ocr",1,0,1,1,0,TRUE
+"162:18:4","Chihuahua","hasta_5ha","vacunos_cabezas_fino","831","ocr",1,0,1,1,0,TRUE
+"162:22:3","Durango","mayores_5ha","vacunos_cabezas_suma","273 591","ocr",2,0,1,1,0,TRUE
+"162:22:6","Durango","mayores_5ha","vacunos_valor_suma","05 923 970","ocr",2,0,1,1,0,TRUE
+"162:24:3","Durango","ejidos","vacunos_cabezas_suma","207 189","ocr",2,0,1,1,0,TRUE
+"162:32:4","San Luis Potos<U+00ED>","mayores_5ha","vacunos_cabezas_fino","R 575","pendiente",0,0,0,0,1,TRUE
+"162:32:7","San Luis Potos<U+00ED>","mayores_5ha","vacunos_valor_fino","1 181 652","ocr",1,0,1,1,0,TRUE
+"162:37:3","Tamaulipas","mayores_5ha","vacunos_cabezas_suma","309 481","ocr",2,0,1,1,0,TRUE
+"162:37:5","Tamaulipas","mayores_5ha","vacunos_cabezas_corriente","295 601","ocr",2,0,1,1,0,TRUE
+"162:38:6","Tamaulipas","hasta_5ha","vacunos_valor_suma","I 964 020","ocr_normalizado",1,0,1,1,0,TRUE
+"162:38:8","Tamaulipas","hasta_5ha","vacunos_valor_corriente","912 620","ocr",2,0,1,1,0,TRUE
+"162:40:3","Tamaulipas","en_poblaciones","vacunos_cabezas_suma","41 675","ocr",2,0,1,1,0,TRUE
+"162:40:5","Tamaulipas","en_poblaciones","vacunos_cabezas_corriente","39 711","ocr",1,0,1,1,0,TRUE
+"162:40:6","Tamaulipas","en_poblaciones","vacunos_valor_suma","11 210 050","ocr",2,0,1,1,0,TRUE
+"162:40:8","Tamaulipas","en_poblaciones","vacunos_valor_corriente","8 826 100","ocr",1,0,1,1,0,TRUE
+"162:42:6","Zacatecas","mayores_5ha","vacunos_valor_suma","42 334 912,","ocr_normalizado",2,0,1,1,0,TRUE
+"162:42:7","Zacatecas","mayores_5ha","vacunos_valor_fino","1 542 025","ocr",1,0,1,1,0,TRUE
+"162:44:6","Zacatecas","ejidos","vacunos_valor_suma","30 005 135","ocr",2,0,1,1,0,TRUE
+"162:44:7","Zacatecas","ejidos","vacunos_valor_fino","1 491 850","ocr",0,0,1,1,0,TRUE
+"162:45:4","Zacatecas","en_poblaciones","vacunos_cabezas_fino","17 178","ocr",2,0,1,1,0,TRUE
+"162:48:8","GOLFO DE M<U+00C9>XICO","hasta_5ha","vacunos_valor_corriente",""" 057 740","pendiente",0,0,0,0,1,TRUE
+"162:52:3","Campeche","mayores_5ha","vacunos_cabezas_suma","11 386","ocr",2,0,1,1,0,TRUE
+"162:52:4","Campeche","mayores_5ha","vacunos_cabezas_fino","1 188","ocr",0,0,1,1,0,TRUE
+"162:53:3","Campeche","hasta_5ha","vacunos_cabezas_suma","597","ocr",2,0,1,1,0,TRUE
+"162:53:4","Campeche","hasta_5ha","vacunos_cabezas_fino","39","ocr",0,0,1,1,0,TRUE
+"162:59:3","Quintana Roo","ejidos","vacunos_cabezas_suma","986","ocr",1,0,1,1,0,TRUE
+"162:59:5","Quintana Roo","ejidos","vacunos_cabezas_corriente","911","ocr",2,0,1,1,0,TRUE
+"162:60:3","Quintana Roo","en_poblaciones","vacunos_cabezas_suma","383","ocr",2,0,1,1,0,TRUE
+"162:60:5","Quintana Roo","en_poblaciones","vacunos_cabezas_corriente","1 188","ocr",1,0,1,1,0,TRUE
+"163:12:6","Yucat<U+00E1>n","mayores_5ha","vacunos_valor_suma","27 127 776","ocr",2,0,1,1,0,TRUE
+"163:15:4","Yucat<U+00E1>n","en_poblaciones","vacunos_cabezas_fino","3 192","ocr",2,0,1,1,0,TRUE
+"163:18:4","PAC<U+00CD>FICO NORTE","hasta_5ha","vacunos_cabezas_fino","622","ocr",1,1,1,1,0,TRUE
+"163:23:3","Baja California, Norte","hasta_5ha","vacunos_cabezas_suma","2 189","ocr",2,0,1,1,0,TRUE
+"163:23:5","Baja California, Norte","hasta_5ha","vacunos_cabezas_corriente","300","ocr",2,0,1,1,0,TRUE
+"163:28:6","Baja California, Sur","hasta_5ha","vacunos_valor_suma","751 134","ocr",2,0,1,1,0,TRUE
+"163:33:5","Nayarit","hasta_5ha","vacunos_cabezas_corriente","331","ocr",2,0,1,1,0,TRUE
+"163:38:4","Sinaloa","hasta_5ha","vacunos_cabezas_fino","","pendiente",0,1,0,0,1,TRUE
+"163:38:6","Sinaloa","hasta_5ha","vacunos_valor_suma","1 027 782","ocr",2,0,1,1,0,TRUE
+"163:38:7","Sinaloa","hasta_5ha","vacunos_valor_fino","200","ocr",2,0,1,1,0,TRUE
+"163:42:6","Sonora","mayores_5ha","vacunos_valor_suma","112 744 119","ocr",2,0,1,1,0,TRUE
+"163:54:3","Colima","ejidos","vacunos_cabezas_suma","14 674","ocr",1,0,1,1,0,TRUE
+"163:54:5","Colima","ejidos","vacunos_cabezas_corriente","11 270","ocr",2,0,1,1,0,TRUE
+"163:55:8","Colima","en_poblaciones","vacunos_valor_corriente","3 160 697","ocr",2,0,1,1,0,TRUE
+"163:58:3","Chiapas","hasta_5ha","vacunos_cabezas_suma","759","ocr",2,0,1,1,0,TRUE
+"163:58:8","Chiapas","hasta_5ha","vacunos_valor_corriente","121 535","ocr",2,0,1,1,0,TRUE
+"163:7:4","Veracruz","mayores_5ha","vacunos_cabezas_fino","31 111","ocr",0,0,1,1,0,TRUE
+"163:7:8","Veracruz","mayores_5ha","vacunos_valor_corriente","161 408 609","ocr",2,0,1,1,0,TRUE
+"164:18:3","Aguascalientes","hasta_5ha","vacunos_cabezas_suma","305","ocr",2,0,1,1,0,TRUE
+"164:25:5","Distrito Federal","en_poblaciones","vacunos_cabezas_corriente","20 880","ocr",2,0,1,1,0,TRUE
+"164:34:6","Hidalgo","ejidos","vacunos_valor_suma","15 900 265","ocr",2,0,1,1,0,TRUE
+"164:43:6","M<U+00E9>xico","hasta_5ha","vacunos_valor_suma","21 97 955.","ocr_normalizado",2,0,1,1,0,TRUE
+"164:45:5","M<U+00E9>xico","en_poblaciones","vacunos_cabezas_corriente","163 676","ocr",2,0,1,1,0,TRUE
+"164:48:3","Michoac<U+00E1>n","hasta_5ha","vacunos_cabezas_suma","53 802","ocr",2,0,1,1,0,TRUE
+"164:48:5","Michoac<U+00E1>n","hasta_5ha","vacunos_cabezas_corriente","53 183","ocr",2,0,1,1,0,TRUE
+"164:49:3","Michoac<U+00E1>n","ejidos","vacunos_cabezas_suma","240 100","ocr",2,0,1,1,0,TRUE
+"164:49:5","Michoac<U+00E1>n","ejidos","vacunos_cabezas_corriente","233 258","ocr",1,0,1,1,0,TRUE
+"164:60:6","Puebla","en_poblaciones","vacunos_valor_suma","39 008 607","ocr",2,0,1,1,0,TRUE
+"165:5:4","Quer<U+00E9>taro","en_poblaciones","vacunos_cabezas_fino","3 863","ocr",2,0,1,1,0,TRUE
+"165:9:7","Tlaxcala","ejidos","vacunos_valor_fino","577 810","ocr",1,0,1,1,0,TRUE
+"162:10:3","NORTE","en_poblaciones","vacunos_cabezas_suma","886 757","ocr",1,0,0,0,0,FALSE
+"162:10:4","NORTE","en_poblaciones","vacunos_cabezas_fino","94 499","ocr",1,0,0,0,0,FALSE
+"162:10:6","NORTE","en_poblaciones","vacunos_valor_suma","180 654 862","ocr",1,0,0,0,0,FALSE
+"162:10:7","NORTE","en_poblaciones","vacunos_valor_fino","40 558 157","ocr",1,0,0,0,0,FALSE
+"162:11:3","Coahuila","total","vacunos_cabezas_suma","466 848","ocr",2,0,0,0,0,FALSE
+"162:11:7","Coahuila","total","vacunos_valor_fino","49 257 802","ocr",0,0,1,0,0,FALSE
+"162:12:3","Coahuila","mayores_5ha","vacunos_cabezas_suma","355 057","ocr",2,0,0,0,0,FALSE
+"162:12:5","Coahuila","mayores_5ha","vacunos_cabezas_corriente","245 446","ocr",2,0,0,0,0,FALSE
+"162:12:6","Coahuila","mayores_5ha","vacunos_valor_suma","88 285 481","ocr",2,0,0,0,0,FALSE
+"162:12:7","Coahuila","mayores_5ha","vacunos_valor_fino","43 557 873","ocr",1,0,1,0,0,FALSE
+"162:12:8","Coahuila","mayores_5ha","vacunos_valor_corriente","44 727 608","ocr",1,0,0,0,0,FALSE
+"162:13:3","Coahuila","hasta_5ha","vacunos_cabezas_suma","2 036","ocr",1,0,0,0,0,FALSE
+"162:13:4","Coahuila","hasta_5ha","vacunos_cabezas_fino","388","ocr",1,0,0,0,0,FALSE
+"162:13:5","Coahuila","hasta_5ha","vacunos_cabezas_corriente","1 648","ocr",1,0,0,0,0,FALSE
+"162:13:6","Coahuila","hasta_5ha","vacunos_valor_suma","492 437","ocr",1,0,0,0,0,FALSE
+"162:13:7","Coahuila","hasta_5ha","vacunos_valor_fino","186 029","ocr",1,0,1,0,0,FALSE
+"162:13:8","Coahuila","hasta_5ha","vacunos_valor_corriente","306 408","ocr",2,0,0,0,0,FALSE
+"162:14:3","Coahuila","ejidos","vacunos_cabezas_suma","48 149","ocr",2,0,0,0,0,FALSE
+"162:14:5","Coahuila","ejidos","vacunos_cabezas_corriente","46 359","ocr",1,0,0,0,0,FALSE
+"162:14:6","Coahuila","ejidos","vacunos_valor_suma","8 663 034","ocr",2,0,0,0,0,FALSE
+"162:14:7","Coahuila","ejidos","vacunos_valor_fino","665 045","ocr",0,0,1,0,0,FALSE
+"162:15:3","Coahuila","en_poblaciones","vacunos_cabezas_suma","61 606","ocr",2,0,0,0,0,FALSE
+"162:15:4","Coahuila","en_poblaciones","vacunos_cabezas_fino","10 325","ocr",2,0,0,0,0,FALSE
+"162:15:5","Coahuila","en_poblaciones","vacunos_cabezas_corriente","51 281","ocr",1,0,0,0,0,FALSE
+"162:15:6","Coahuila","en_poblaciones","vacunos_valor_suma","15 078 367","ocr",2,0,0,1,0,FALSE
+"162:15:8","Coahuila","en_poblaciones","vacunos_valor_corriente","10 229 512","ocr",1,0,0,1,0,FALSE
+"162:16:5","Chihuahua","total","vacunos_cabezas_corriente","991 897","ocr",0,0,0,1,0,FALSE
+"162:17:3","Chihuahua","mayores_5ha","vacunos_cabezas_suma","750 780","ocr",2,0,1,0,0,FALSE
+"162:17:4","Chihuahua","mayores_5ha","vacunos_cabezas_fino","168 661","ocr",0,0,1,0,0,FALSE
+"162:17:5","Chihuahua","mayores_5ha","vacunos_cabezas_corriente","582 119","ocr",2,0,0,0,0,FALSE
+"162:17:6","Chihuahua","mayores_5ha","vacunos_valor_suma","126 998 980","ocr",2,0,0,0,0,FALSE
+"162:17:7","Chihuahua","mayores_5ha","vacunos_valor_fino","47 206 637","ocr",1,0,0,0,0,FALSE
+"162:17:8","Chihuahua","mayores_5ha","vacunos_valor_corriente","79 792 343","ocr",1,0,0,0,0,FALSE
+"162:18:5","Chihuahua","hasta_5ha","vacunos_cabezas_corriente","30 047","ocr",1,0,0,1,0,FALSE
+"162:18:6","Chihuahua","hasta_5ha","vacunos_valor_suma","4 732 576","ocr",1,0,0,0,0,FALSE
+"162:18:7","Chihuahua","hasta_5ha","vacunos_valor_fino","342 162","ocr",1,0,0,0,0,FALSE
+"162:18:8","Chihuahua","hasta_5ha","vacunos_valor_corriente","4 390 414","ocr",2,0,0,0,0,FALSE
+"162:19:3","Chihuahua","ejidos","vacunos_cabezas_suma","212 648","ocr",2,0,1,0,0,FALSE
+"162:19:4","Chihuahua","ejidos","vacunos_cabezas_fino","6 587","ocr",0,0,1,0,0,FALSE
+"162:19:5","Chihuahua","ejidos","vacunos_cabezas_corriente","206 061","ocr",1,0,0,0,0,FALSE
+"162:19:6","Chihuahua","ejidos","vacunos_valor_suma","32 413 157","ocr",2,0,0,0,0,FALSE
+"162:1:3","ESTADOS UNIDOS MEXICANOS","total","vacunos_cabezas_suma","13 629 265","ocr",1,0,0,0,0,FALSE
+"162:20:3","Chihuahua","en_poblaciones","vacunos_cabezas_suma","198 975","ocr",2,0,1,0,0,FALSE
+"162:20:4","Chihuahua","en_poblaciones","vacunos_cabezas_fino","25 305","ocr",2,0,1,0,0,FALSE
+"162:20:5","Chihuahua","en_poblaciones","vacunos_cabezas_corriente","173 670","ocr",1,0,0,0,0,FALSE
+"162:20:6","Chihuahua","en_poblaciones","vacunos_valor_suma","31 271 013","ocr",2,0,0,0,0,FALSE
+"162:20:7","Chihuahua","en_poblaciones","vacunos_valor_fino","8 239 443","ocr",2,0,0,0,0,FALSE
+"162:20:8","Chihuahua","en_poblaciones","vacunos_valor_corriente","23 031 570","ocr",1,0,0,0,0,FALSE
+"162:21:3","Durango","total","vacunos_cabezas_suma","648 207","ocr",2,0,1,0,0,FALSE
+"162:21:6","Durango","total","vacunos_valor_suma","132 738 666","ocr",0,0,1,0,0,FALSE
+"162:22:4","Durango","mayores_5ha","vacunos_cabezas_fino","71 139","ocr",0,0,0,1,0,FALSE
+"162:22:5","Durango","mayores_5ha","vacunos_cabezas_corriente","202 455","ocr",2,0,0,1,0,FALSE
+"162:22:7","Durango","mayores_5ha","vacunos_valor_fino","35 523 895","ocr",1,0,0,1,0,FALSE
+"162:22:8","Durango","mayores_5ha","vacunos_valor_corriente","30 400 075","ocr",1,0,0,1,0,FALSE
+"162:23:3","Durango","hasta_5ha","vacunos_cabezas_suma","17 067","ocr",1,0,1,0,0,FALSE
+"162:23:4","Durango","hasta_5ha","vacunos_cabezas_fino","9","ocr",1,0,0,0,0,FALSE
+"162:23:5","Durango","hasta_5ha","vacunos_cabezas_corriente","17 058","ocr",1,0,0,0,0,FALSE
+"162:23:6","Durango","hasta_5ha","vacunos_valor_suma","2 415 789","ocr",1,0,1,0,0,FALSE
+"162:23:7","Durango","hasta_5ha","vacunos_valor_fino","5 800","ocr",1,0,0,0,0,FALSE
+"162:23:8","Durango","hasta_5ha","vacunos_valor_corriente","2 409 989","ocr",2,0,0,0,0,FALSE
+"162:24:4","Durango","ejidos","vacunos_cabezas_fino","3 732","ocr",0,0,0,1,0,FALSE
+"162:24:5","Durango","ejidos","vacunos_cabezas_corriente","203 757","ocr",1,0,0,1,0,FALSE
+"162:24:6","Durango","ejidos","vacunos_valor_suma","31 252 837","ocr",2,0,1,0,0,FALSE
+"162:25:3","Durango","en_poblaciones","vacunos_cabezas_suma","150 057","ocr",2,0,1,0,0,FALSE
+"162:25:4","Durango","en_poblaciones","vacunos_cabezas_fino","12 592","ocr",2,0,0,0,0,FALSE
+"162:25:5","Durango","en_poblaciones","vacunos_cabezas_corriente","137 465","ocr",1,0,0,0,0,FALSE
+"162:25:6","Durango","en_poblaciones","vacunos_valor_suma","33 146 070","ocr",2,0,1,0,0,FALSE
+"162:25:7","Durango","en_poblaciones","vacunos_valor_fino","6 964 050","ocr",2,0,0,0,0,FALSE
+"162:25:8","Durango","en_poblaciones","vacunos_valor_corriente","26 182 020","ocr",1,0,0,0,0,FALSE
+"162:26:3","Nuevo Le<U+00F3>n","total","vacunos_cabezas_suma","435 158","ocr",2,0,0,0,0,FALSE
+"162:27:3","Nuevo Le<U+00F3>n","mayores_5ha","vacunos_cabezas_suma","282 771","ocr",2,0,0,0,0,FALSE
+"162:27:5","Nuevo Le<U+00F3>n","mayores_5ha","vacunos_cabezas_corriente","256 376","ocr",2,0,0,0,0,FALSE
+"162:27:6","Nuevo Le<U+00F3>n","mayores_5ha","vacunos_valor_suma","54 248 544","ocr",2,0,0,0,0,FALSE
+"162:27:7","Nuevo Le<U+00F3>n","mayores_5ha","vacunos_valor_fino","13 855 910","ocr",1,0,0,0,0,FALSE
+"162:27:8","Nuevo Le<U+00F3>n","mayores_5ha","vacunos_valor_corriente","40 392 634","ocr",1,0,0,0,0,FALSE
+"162:28:3","Nuevo Le<U+00F3>n","hasta_5ha","vacunos_cabezas_suma","13 213","ocr",1,0,0,0,0,FALSE
+"162:28:4","Nuevo Le<U+00F3>n","hasta_5ha","vacunos_cabezas_fino","270","ocr",1,0,0,0,0,FALSE
+"162:28:5","Nuevo Le<U+00F3>n","hasta_5ha","vacunos_cabezas_corriente","12 943","ocr",1,0,0,0,0,FALSE
+"162:28:6","Nuevo Le<U+00F3>n","hasta_5ha","vacunos_valor_suma","2 963 851","ocr",1,0,0,0,0,FALSE
+"162:28:7","Nuevo Le<U+00F3>n","hasta_5ha","vacunos_valor_fino","166 425","ocr",1,0,0,0,0,FALSE
+"162:28:8","Nuevo Le<U+00F3>n","hasta_5ha","vacunos_valor_corriente","2 797 426","ocr",2,0,0,0,0,FALSE
+"162:29:3","Nuevo Le<U+00F3>n","ejidos","vacunos_cabezas_suma","56 624","ocr",2,0,0,0,0,FALSE
+"162:29:5","Nuevo Le<U+00F3>n","ejidos","vacunos_cabezas_corriente","55 725","ocr",1,0,0,0,0,FALSE
+"162:29:6","Nuevo Le<U+00F3>n","ejidos","vacunos_valor_suma","8 605 816","ocr",2,0,0,0,0,FALSE
+"162:2:3","ESTADOS UNIDOS MEXICANOS","mayores_5ha","vacunos_cabezas_suma","6 561 448","ocr",1,0,0,0,0,FALSE
+"162:2:5","ESTADOS UNIDOS MEXICANOS","mayores_5ha","vacunos_cabezas_corriente","5 856 987","ocr",1,0,0,0,0,FALSE
+"162:2:6","ESTADOS UNIDOS MEXICANOS","mayores_5ha","vacunos_valor_suma","1 389 015 131","ocr",1,0,0,0,0,FALSE
+"162:2:8","ESTADOS UNIDOS MEXICANOS","mayores_5ha","vacunos_valor_corriente","1 057 315 405","ocr",1,0,0,0,0,FALSE
+"162:30:3","Nuevo Le<U+00F3>n","en_poblaciones","vacunos_cabezas_suma","82 550","ocr",2,0,0,0,0,FALSE
+"162:30:4","Nuevo Le<U+00F3>n","en_poblaciones","vacunos_cabezas_fino","12 959","ocr",2,0,0,0,0,FALSE
+"162:30:5","Nuevo Le<U+00F3>n","en_poblaciones","vacunos_cabezas_corriente","69 591","ocr",1,0,0,0,0,FALSE
+"162:30:6","Nuevo Le<U+00F3>n","en_poblaciones","vacunos_valor_suma","22 264 550","ocr",2,0,0,0,0,FALSE
+"162:30:7","Nuevo Le<U+00F3>n","en_poblaciones","vacunos_valor_fino","7 671 800","ocr",2,0,0,0,0,FALSE
+"162:30:8","Nuevo Le<U+00F3>n","en_poblaciones","vacunos_valor_corriente","14 592 750","ocr",1,0,0,0,0,FALSE
+"162:31:3","San Luis Potos<U+00ED>","total","vacunos_cabezas_suma","430 187","ocr",2,0,0,0,0,FALSE
+"162:31:7","San Luis Potos<U+00ED>","total","vacunos_valor_fino","9 927 317","ocr",0,0,1,0,0,FALSE
+"162:32:3","San Luis Potos<U+00ED>","mayores_5ha","vacunos_cabezas_suma","132 891","ocr",2,0,0,0,0,FALSE
+"162:32:5","San Luis Potos<U+00ED>","mayores_5ha","vacunos_cabezas_corriente","123-316","ocr_normalizado",2,0,0,0,0,FALSE
+"162:32:6","San Luis Potos<U+00ED>","mayores_5ha","vacunos_valor_suma","28 635 316","ocr",2,0,0,1,0,FALSE
+"162:32:8","San Luis Potos<U+00ED>","mayores_5ha","vacunos_valor_corriente","24 450 664","ocr",1,0,0,1,0,FALSE
+"162:33:3","San Luis Potos<U+00ED>","hasta_5ha","vacunos_cabezas_suma","16 352","ocr",1,0,0,1,0,FALSE
+"162:33:4","San Luis Potos<U+00ED>","hasta_5ha","vacunos_cabezas_fino","411","ocr",1,0,0,1,0,FALSE
+"162:33:5","San Luis Potos<U+00ED>","hasta_5ha","vacunos_cabezas_corriente","15 911","ocr",1,0,0,1,0,FALSE
+"162:33:6","San Luis Potos<U+00ED>","hasta_5ha","vacunos_valor_suma","3 338 634","ocr",1,0,0,0,0,FALSE
+"162:33:7","San Luis Potos<U+00ED>","hasta_5ha","vacunos_valor_fino","189 915","ocr",1,0,1,0,0,FALSE
+"162:33:8","San Luis Potos<U+00ED>","hasta_5ha","vacunos_valor_corriente","3 148 719","ocr",2,0,0,0,0,FALSE
+"162:34:3","San Luis Potos<U+00ED>","ejidos","vacunos_cabezas_suma","147 120","ocr",2,0,0,0,0,FALSE
+"162:34:5","San Luis Potos<U+00ED>","ejidos","vacunos_cabezas_corriente","143 741","ocr",1,0,0,0,0,FALSE
+"162:34:6","San Luis Potos<U+00ED>","ejidos","vacunos_valor_suma","23 821 750","ocr",2,0,0,0,0,FALSE
+"162:34:7","San Luis Potos<U+00ED>","ejidos","vacunos_valor_fino","1 206 015","ocr",0,0,1,0,0,FALSE
+"162:35:3","San Luis Potos<U+00ED>","en_poblaciones","vacunos_cabezas_suma","133 824","ocr",2,0,0,1,0,FALSE
+"162:35:4","San Luis Potos<U+00ED>","en_poblaciones","vacunos_cabezas_fino","10 870","ocr",2,0,0,1,0,FALSE
+"162:35:5","San Luis Potos<U+00ED>","en_poblaciones","vacunos_cabezas_corriente","122 948","ocr",1,0,0,1,0,FALSE
+"162:35:6","San Luis Potos<U+00ED>","en_poblaciones","vacunos_valor_suma","28 171 567","ocr",2,0,0,0,0,FALSE
+"162:35:7","San Luis Potos<U+00ED>","en_poblaciones","vacunos_valor_fino","4 346 735","ocr",2,0,1,0,0,FALSE
+"162:35:8","San Luis Potos<U+00ED>","en_poblaciones","vacunos_valor_corriente","23 824 832","ocr",1,0,0,0,0,FALSE
+"162:36:3","Tamaulipas","total","vacunos_cabezas_suma","470 040","ocr",2,0,1,0,0,FALSE
+"162:36:5","Tamaulipas","total","vacunos_cabezas_corriente","449 089","ocr",0,0,1,0,0,FALSE
+"162:36:6","Tamaulipas","total","vacunos_valor_suma","92 869 743","ocr",0,0,1,0,0,FALSE
+"162:36:8","Tamaulipas","total","vacunos_valor_corriente","83 278 592","ocr",0,0,1,0,0,FALSE
+"162:37:4","Tamaulipas","mayores_5ha","vacunos_cabezas_fino","13 877","ocr",0,0,0,1,0,FALSE
+"162:37:6","Tamaulipas","mayores_5ha","vacunos_valor_suma","62 511 097","ocr",2,0,1,0,0,FALSE
+"162:37:7","Tamaulipas","mayores_5ha","vacunos_valor_fino","6 330 811","ocr",1,0,0,0,0,FALSE
+"162:37:8","Tamaulipas","mayores_5ha","vacunos_valor_corriente","56 180 286","ocr",1,0,1,0,0,FALSE
+"162:38:3","Tamaulipas","hasta_5ha","vacunos_cabezas_suma","8 651","ocr",1,0,1,0,0,FALSE
+"162:38:4","Tamaulipas","hasta_5ha","vacunos_cabezas_fino","73","ocr",1,0,0,0,0,FALSE
+"162:38:5","Tamaulipas","hasta_5ha","vacunos_cabezas_corriente","8 578","ocr",1,0,1,0,0,FALSE
+"162:38:7","Tamaulipas","hasta_5ha","vacunos_valor_fino","51 400","ocr",1,0,0,1,0,FALSE
+"162:39:3","Tamaulipas","ejidos","vacunos_cabezas_suma","107 233","ocr",2,0,1,0,0,FALSE
+"162:39:5","Tamaulipas","ejidos","vacunos_cabezas_corriente","105 196","ocr",1,0,1,0,0,FALSE
+"162:39:6","Tamaulipas","ejidos","vacunos_valor_suma","17 154 576","ocr",2,0,1,0,0,FALSE
+"162:39:8","Tamaulipas","ejidos","vacunos_valor_corriente","16 359 586","ocr",0,0,1,0,0,FALSE
+"162:3:3","ESTADOS UNIDOS MEXICANOS","hasta_5ha","vacunos_cabezas_suma","704 127","ocr",1,0,0,0,0,FALSE
+"162:3:4","ESTADOS UNIDOS MEXICANOS","hasta_5ha","vacunos_cabezas_fino","20 527","ocr",1,0,0,0,0,FALSE
+"162:3:5","ESTADOS UNIDOS MEXICANOS","hasta_5ha","vacunos_cabezas_corriente","683 600","ocr",1,0,0,0,0,FALSE
+"162:3:6","ESTADOS UNIDOS MEXICANOS","hasta_5ha","vacunos_valor_suma","181 871 187","ocr",1,0,0,0,0,FALSE
+"162:3:7","ESTADOS UNIDOS MEXICANOS","hasta_5ha","vacunos_valor_fino","21 306 864","ocr",1,0,0,0,0,FALSE
+"162:3:8","ESTADOS UNIDOS MEXICANOS","hasta_5ha","vacunos_valor_corriente","160 564 323","ocr",1,0,0,0,0,FALSE
+"162:40:4","Tamaulipas","en_poblaciones","vacunos_cabezas_fino","4 964","ocr",2,0,0,1,0,FALSE
+"162:40:7","Tamaulipas","en_poblaciones","vacunos_valor_fino","2 413 950","ocr",2,0,0,1,0,FALSE
+"162:41:3","Zacatecas","total","vacunos_cabezas_suma","720 868","ocr",2,0,0,0,0,FALSE
+"162:41:4","Zacatecas","total","vacunos_cabezas_fino","32 721","ocr",0,0,1,0,0,FALSE
+"162:41:6","Zacatecas","total","vacunos_valor_suma","115 494 139","ocr",0,0,1,0,0,FALSE
+"162:41:7","Zacatecas","total","vacunos_valor_fino","12 282 199","ocr",0,0,1,0,0,FALSE
+"162:42:3","Zacatecas","mayores_5ha","vacunos_cabezas_suma","288 724","ocr",2,0,0,0,0,FALSE
+"162:42:4","Zacatecas","mayores_5ha","vacunos_cabezas_fino","10 800","ocr",0,0,1,0,0,FALSE
+"162:42:5","Zacatecas","mayores_5ha","vacunos_cabezas_corriente","277 924","ocr",2,0,0,0,0,FALSE
+"162:42:8","Zacatecas","mayores_5ha","vacunos_valor_corriente","37 792 917","ocr",1,0,0,1,0,FALSE
+"162:43:3","Zacatecas","hasta_5ha","vacunos_cabezas_suma","19 466","ocr",1,0,0,0,0,FALSE
+"162:43:4","Zacatecas","hasta_5ha","vacunos_cabezas_fino","373","ocr",1,0,1,0,0,FALSE
+"162:43:5","Zacatecas","hasta_5ha","vacunos_cabezas_corriente","19 093","ocr",1,0,0,0,0,FALSE
+"162:43:6","Zacatecas","hasta_5ha","vacunos_valor_suma","3 670 517","ocr",1,0,1,0,0,FALSE
+"162:43:7","Zacatecas","hasta_5ha","vacunos_valor_fino","175 000","ocr",1,0,1,0,0,FALSE
+"162:43:8","Zacatecas","hasta_5ha","vacunos_valor_corriente","3 495 517","ocr",2,0,0,0,0,FALSE
+"162:44:3","Zacatecas","ejidos","vacunos_cabezas_suma","197 608","ocr",2,0,0,0,0,FALSE
+"162:44:4","Zacatecas","ejidos","vacunos_cabezas_fino","4 070","ocr",0,0,1,0,0,FALSE
+"162:44:5","Zacatecas","ejidos","vacunos_cabezas_corriente","193 538","ocr",1,0,0,0,0,FALSE
+"162:44:8","Zacatecas","ejidos","vacunos_valor_corriente","28 513 585","ocr",0,0,0,1,0,FALSE
+"162:45:3","Zacatecas","en_poblaciones","vacunos_cabezas_suma","215 070","ocr",2,0,0,1,0,FALSE
+"162:45:5","Zacatecas","en_poblaciones","vacunos_cabezas_corriente","197 592","ocr",1,0,0,1,0,FALSE
+"162:45:6","Zacatecas","en_poblaciones","vacunos_valor_suma","39 483 245","ocr",2,0,1,0,0,FALSE
+"162:45:7","Zacatecas","en_poblaciones","vacunos_valor_fino","6 073 324","ocr",2,0,1,0,0,FALSE
+"162:45:8","Zacatecas","en_poblaciones","vacunos_valor_corriente","33 409 921","ocr",1,0,0,0,0,FALSE
+"162:47:3","GOLFO DE M<U+00C9>XICO","mayores_5ha","vacunos_cabezas_suma","1 149 149","ocr",1,0,0,0,0,FALSE
+"162:47:6","GOLFO DE M<U+00C9>XICO","mayores_5ha","vacunos_valor_suma","268 003 044","ocr",1,0,0,0,0,FALSE
+"162:47:8","GOLFO DE M<U+00C9>XICO","mayores_5ha","vacunos_valor_corriente","240 788 369","ocr",1,0,0,0,0,FALSE
+"162:48:3","GOLFO DE M<U+00C9>XICO","hasta_5ha","vacunos_cabezas_suma","48 070","ocr",1,0,0,0,0,FALSE
+"162:48:4","GOLFO DE M<U+00C9>XICO","hasta_5ha","vacunos_cabezas_fino","410","ocr",1,0,0,0,0,FALSE
+"162:48:5","GOLFO DE M<U+00C9>XICO","hasta_5ha","vacunos_cabezas_corriente","47 660","ocr",1,0,0,0,0,FALSE
+"162:49:5","GOLFO DE M<U+00C9>XICO","ejidos","vacunos_cabezas_corriente","345 243","ocr",1,0,0,0,0,FALSE
+"162:4:3","ESTADOS UNIDOS MEXICANOS","ejidos","vacunos_cabezas_suma","2 913 803","ocr",1,0,0,0,0,FALSE
+"162:4:5","ESTADOS UNIDOS MEXICANOS","ejidos","vacunos_cabezas_corriente","2 839 555","ocr",1,0,0,0,0,FALSE
+"162:4:6","ESTADOS UNIDOS MEXICANOS","ejidos","vacunos_valor_suma","561 640 949","ocr",1,0,0,0,0,FALSE
+"162:50:3","GOLFO DE M<U+00C9>XICO","en_poblaciones","vacunos_cabezas_suma","372 531","ocr",1,0,0,0,0,FALSE
+"162:50:4","GOLFO DE M<U+00C9>XICO","en_poblaciones","vacunos_cabezas_fino","35 473","ocr",1,0,0,0,0,FALSE
+"162:51:3","Campeche","total","vacunos_cabezas_suma","72 084","ocr",1,0,1,0,0,FALSE
+"162:51:4","Campeche","total","vacunos_cabezas_fino","I 985","ocr_normalizado",0,0,1,0,0,FALSE
+"162:52:5","Campeche","mayores_5ha","vacunos_cabezas_corriente","43 248","ocr",1,0,0,1,0,FALSE
+"162:52:6","Campeche","mayores_5ha","vacunos_valor_suma","11 033 320","ocr",2,0,0,0,0,FALSE
+"162:52:8","Campeche","mayores_5ha","vacunos_valor_corriente","9 553 270","ocr",2,0,0,0,0,FALSE
+"162:53:5","Campeche","hasta_5ha","vacunos_cabezas_corriente","2 558","ocr",2,0,0,1,0,FALSE
+"162:53:6","Campeche","hasta_5ha","vacunos_valor_suma","615 161","ocr",1,0,0,0,0,FALSE
+"162:53:7","Campeche","hasta_5ha","vacunos_valor_fino","40 100","ocr",1,0,0,0,0,FALSE
+"162:53:8","Campeche","hasta_5ha","vacunos_valor_corriente","575 061","ocr",1,0,0,0,0,FALSE
+"162:54:3","Campeche","ejidos","vacunos_cabezas_suma","11 378","ocr",1,0,1,0,0,FALSE
+"162:54:4","Campeche","ejidos","vacunos_cabezas_fino","308","ocr",0,0,1,0,0,FALSE
+"162:54:5","Campeche","ejidos","vacunos_cabezas_corriente","11 070","ocr",2,0,0,0,0,FALSE
+"162:54:6","Campeche","ejidos","vacunos_valor_suma","3 151 000","ocr",1,0,0,0,0,FALSE
+"162:55:3","Campeche","en_poblaciones","vacunos_cabezas_suma","13 723","ocr",2,0,1,0,0,FALSE
+"162:55:4","Campeche","en_poblaciones","vacunos_cabezas_fino","500","ocr",2,0,1,0,0,FALSE
+"162:55:5","Campeche","en_poblaciones","vacunos_cabezas_corriente","13 223","ocr",1,0,0,0,0,FALSE
+"162:55:6","Campeche","en_poblaciones","vacunos_valor_suma","3 069 851","ocr",1,0,0,0,0,FALSE
+"162:55:7","Campeche","en_poblaciones","vacunos_valor_fino","424 930","ocr",1,0,0,0,0,FALSE
+"162:55:8","Campeche","en_poblaciones","vacunos_valor_corriente","2 644 921","ocr",1,0,0,0,0,FALSE
+"162:56:3","Quintana Roo","total","vacunos_cabezas_suma","3 891","ocr",1,0,1,0,0,FALSE
+"162:56:5","Quintana Roo","total","vacunos_cabezas_corriente","3 653","ocr",0,0,1,0,0,FALSE
+"162:57:3","Quintana Roo","mayores_5ha","vacunos_cabezas_suma","] 423","ocr_normalizado",2,0,1,0,0,FALSE
+"162:57:5","Quintana Roo","mayores_5ha","vacunos_cabezas_corriente","1 423","ocr",1,0,1,0,0,FALSE
+"162:57:6","Quintana Roo","mayores_5ha","vacunos_valor_suma","258 475","ocr",2,0,0,0,0,FALSE
+"162:57:8","Quintana Roo","mayores_5ha","vacunos_valor_corriente","258 475","ocr",2,0,0,0,0,FALSE
+"162:58:3","Quintana Roo","hasta_5ha","vacunos_cabezas_suma","99","ocr",2,0,1,0,0,FALSE
+"162:58:5","Quintana Roo","hasta_5ha","vacunos_cabezas_corriente","98","ocr",2,0,1,0,0,FALSE
+"162:58:6","Quintana Roo","hasta_5ha","vacunos_valor_suma","18 050","ocr",1,0,0,0,0,FALSE
+"162:58:7","Quintana Roo","hasta_5ha","vacunos_valor_fino","900","ocr",1,0,0,0,0,FALSE
+"162:58:8","Quintana Roo","hasta_5ha","vacunos_valor_corriente","17 150","ocr",1,0,0,0,0,FALSE
+"162:59:4","Quintana Roo","ejidos","vacunos_cabezas_fino","42","ocr",0,0,0,1,0,FALSE
+"162:59:6","Quintana Roo","ejidos","vacunos_valor_suma","214 865","ocr",1,0,0,0,0,FALSE
+"162:5:3","ESTADOS UNIDOS MEXICANOS","en_poblaciones","vacunos_cabezas_suma","3 449 887","ocr",1,0,0,0,0,FALSE
+"162:5:4","ESTADOS UNIDOS MEXICANOS","en_poblaciones","vacunos_cabezas_fino","345 294","ocr",1,0,0,0,0,FALSE
+"162:5:5","ESTADOS UNIDOS MEXICANOS","en_poblaciones","vacunos_cabezas_corriente","3 104 593","ocr",1,0,0,0,0,FALSE
+"162:5:6","ESTADOS UNIDOS MEXICANOS","en_poblaciones","vacunos_valor_suma","874 273 000","ocr",1,0,0,0,0,FALSE
+"162:5:7","ESTADOS UNIDOS MEXICANOS","en_poblaciones","vacunos_valor_fino","194 472 551","ocr",1,0,0,0,0,FALSE
+"162:5:8","ESTADOS UNIDOS MEXICANOS","en_poblaciones","vacunos_valor_corriente","679 800 449","ocr",1,0,0,0,0,FALSE
+"162:60:4","Quintana Roo","en_poblaciones","vacunos_cabezas_fino","195","ocr",2,0,0,1,0,FALSE
+"162:60:6","Quintana Roo","en_poblaciones","vacunos_valor_suma","353 800","ocr",1,0,0,0,0,FALSE
+"162:60:7","Quintana Roo","en_poblaciones","vacunos_valor_fino","83 150","ocr",1,0,0,0,0,FALSE
+"162:60:8","Quintana Roo","en_poblaciones","vacunos_valor_corriente","270-650","ocr_normalizado",1,0,0,0,0,FALSE
+"162:6:3","NORTE","total","vacunos_cabezas_suma","4 364 592","ocr",1,0,0,0,0,FALSE
+"162:7:3","NORTE","mayores_5ha","vacunos_cabezas_suma","2 393 298","ocr",1,0,0,0,0,FALSE
+"162:7:5","NORTE","mayores_5ha","vacunos_cabezas_corriente","1 983 240","ocr",1,0,0,0,0,FALSE
+"162:7:6","NORTE","mayores_5ha","vacunos_valor_suma","468 938 330","ocr",1,0,0,0,0,FALSE
+"162:7:7","NORTE","mayores_5ha","vacunos_valor_fino","155 201 803","ocr",1,0,0,0,0,FALSE
+"162:8:4","NORTE","hasta_5ha","vacunos_cabezas_fino","2 388","ocr",2,0,0,0,0,FALSE
+"162:8:8","NORTE","hasta_5ha","vacunos_valor_corriente","18 461 093","ocr",1,0,0,0,0,FALSE
+"162:9:3","NORTE","ejidos","vacunos_cabezas_suma","976 871","ocr",1,0,0,0,0,FALSE
+"162:9:6","NORTE","ejidos","vacunos_valor_suma","151 916 605","ocr",1,0,0,0,0,FALSE
+"163:10:3","Veracruz","en_poblaciones","vacunos_cabezas_suma","265 139","ocr",2,0,0,0,0,FALSE
+"163:10:4","Veracruz","en_poblaciones","vacunos_cabezas_fino","28 954","ocr",2,0,1,0,0,FALSE
+"163:10:5","Veracruz","en_poblaciones","vacunos_cabezas_corriente","236 185","ocr",1,0,0,0,0,FALSE
+"163:10:6","Veracruz","en_poblaciones","vacunos_valor_suma","78 924 890","ocr",1,0,0,0,0,FALSE
+"163:10:7","Veracruz","en_poblaciones","vacunos_valor_fino","16 955 900","ocr",1,0,0,0,0,FALSE
+"163:10:8","Veracruz","en_poblaciones","vacunos_valor_corriente","61 968 990","ocr",1,0,1,0,0,FALSE
+"163:11:3","Yucat<U+00E1>n","total","vacunos_cabezas_suma","293 198","ocr",1,0,0,0,0,FALSE
+"163:11:4","Yucat<U+00E1>n","total","vacunos_cabezas_fino","10 973","ocr",0,0,1,0,0,FALSE
+"163:11:6","Yucat<U+00E1>n","total","vacunos_valor_suma","56 755 977","ocr",0,0,1,0,0,FALSE
+"163:12:3","Yucat<U+00E1>n","mayores_5ha","vacunos_cabezas_suma","149 844","ocr",2,0,0,0,0,FALSE
+"163:12:4","Yucat<U+00E1>n","mayores_5ha","vacunos_cabezas_fino","7 263","ocr",0,0,1,0,0,FALSE
+"163:12:5","Yucat<U+00E1>n","mayores_5ha","vacunos_cabezas_corriente","142 581","ocr",1,0,0,0,0,FALSE
+"163:12:7","Yucat<U+00E1>n","mayores_5ha","vacunos_valor_fino","2 961 295","ocr",0,0,0,1,0,FALSE
+"163:12:8","Yucat<U+00E1>n","mayores_5ha","vacunos_valor_corriente","24 466 481","ocr",2,0,0,1,0,FALSE
+"163:13:3","Yucat<U+00E1>n","hasta_5ha","vacunos_cabezas_suma","13 290","ocr",2,0,0,0,0,FALSE
+"163:13:4","Yucat<U+00E1>n","hasta_5ha","vacunos_cabezas_fino","20","ocr",0,0,1,0,0,FALSE
+"163:13:5","Yucat<U+00E1>n","hasta_5ha","vacunos_cabezas_corriente","13 270","ocr",2,0,0,0,0,FALSE
+"163:13:6","Yucat<U+00E1>n","hasta_5ha","vacunos_valor_suma","2 626 434","ocr",1,0,1,0,0,FALSE
+"163:13:7","Yucat<U+00E1>n","hasta_5ha","vacunos_valor_fino","10 600","ocr",1,0,0,0,0,FALSE
+"163:13:8","Yucat<U+00E1>n","hasta_5ha","vacunos_valor_corriente","2 615 834","ocr",1,0,0,0,0,FALSE
+"163:14:3","Yucat<U+00E1>n","ejidos","vacunos_cabezas_suma","67 061","ocr",1,0,0,0,0,FALSE
+"163:14:4","Yucat<U+00E1>n","ejidos","vacunos_cabezas_fino","198","ocr",0,0,1,0,0,FALSE
+"163:14:5","Yucat<U+00E1>n","ejidos","vacunos_cabezas_corriente","66 863","ocr",2,0,0,0,0,FALSE
+"163:14:6","Yucat<U+00E1>n","ejidos","vacunos_valor_suma","10 428 517","ocr",1,0,1,0,0,FALSE
+"163:15:3","Yucat<U+00E1>n","en_poblaciones","vacunos_cabezas_suma","63 003","ocr",2,0,0,1,0,FALSE
+"163:15:5","Yucat<U+00E1>n","en_poblaciones","vacunos_cabezas_corriente","59 511","ocr",1,0,0,1,0,FALSE
+"163:15:6","Yucat<U+00E1>n","en_poblaciones","vacunos_valor_suma","16 273 250","ocr",1,0,1,0,0,FALSE
+"163:15:7","Yucat<U+00E1>n","en_poblaciones","vacunos_valor_fino","1 563 200","ocr",1,0,0,0,0,FALSE
+"163:15:8","Yucat<U+00E1>n","en_poblaciones","vacunos_valor_corriente","14 710 050","ocr",1,0,0,0,0,FALSE
+"163:16:4","PAC<U+00CD>FICO NORTE","total","vacunos_cabezas_fino","129 428","ocr",0,0,1,0,0,FALSE
+"163:17:4","PAC<U+00CD>FICO NORTE","mayores_5ha","vacunos_cabezas_fino","83 697","ocr",0,0,1,0,0,FALSE
+"163:17:6","PAC<U+00CD>FICO NORTE","mayores_5ha","vacunos_valor_suma","187 001 852","ocr",1,0,0,0,0,FALSE
+"163:18:3","PAC<U+00CD>FICO NORTE","hasta_5ha","vacunos_cabezas_suma","66 018","ocr",1,0,0,1,0,FALSE
+"163:18:5","PAC<U+00CD>FICO NORTE","hasta_5ha","vacunos_cabezas_corriente","64 396","ocr",1,0,0,1,0,FALSE
+"163:18:6","PAC<U+00CD>FICO NORTE","hasta_5ha","vacunos_valor_suma","12 847 840","ocr",1,0,0,0,0,FALSE
+"163:18:7","PAC<U+00CD>FICO NORTE","hasta_5ha","vacunos_valor_fino","1 006 525","ocr",1,0,0,0,0,FALSE
+"163:19:4","PAC<U+00CD>FICO NORTE","ejidos","vacunos_cabezas_fino","10 587","ocr",0,0,1,0,0,FALSE
+"163:19:5","PAC<U+00CD>FICO NORTE","ejidos","vacunos_cabezas_corriente","325 390","ocr",1,0,0,0,0,FALSE
+"163:1:3","Tabasco","total","vacunos_cabezas_suma","282 438","ocr",1,0,1,0,0,FALSE
+"163:1:5","Tabasco","total","vacunos_cabezas_corriente","275 141","ocr",0,0,1,0,0,FALSE
+"163:20:4","PAC<U+00CD>FICO NORTE","en_poblaciones","vacunos_cabezas_fino","33 522","ocr",0,0,1,0,0,FALSE
+"163:21:3","Baja California, Norte","total","vacunos_cabezas_suma","66 870","ocr",1,0,1,0,0,FALSE
+"163:21:5","Baja California, Norte","total","vacunos_cabezas_corriente","46 754","ocr",0,0,1,0,0,FALSE
+"163:22:3","Baja California, Norte","mayores_5ha","vacunos_cabezas_suma","48 687","ocr",1,0,1,0,0,FALSE
+"163:22:5","Baja California, Norte","mayores_5ha","vacunos_cabezas_corriente","36 562","ocr",1,0,1,0,0,FALSE
+"163:22:6","Baja California, Norte","mayores_5ha","vacunos_valor_suma","16 817 994","ocr",2,0,0,0,0,FALSE
+"163:22:8","Baja California, Norte","mayores_5ha","vacunos_valor_corriente","9 850 589","ocr",1,0,0,0,0,FALSE
+"163:23:4","Baja California, Norte","hasta_5ha","vacunos_cabezas_fino","1 189","ocr",0,1,0,1,0,FALSE
+"163:23:6","Baja California, Norte","hasta_5ha","vacunos_valor_suma","1 143 749","ocr",2,0,0,0,0,FALSE
+"163:23:7","Baja California, Norte","hasta_5ha","vacunos_valor_fino","823 050","ocr",2,0,0,0,0,FALSE
+"163:23:8","Baja California, Norte","hasta_5ha","vacunos_valor_corriente","320 699","ocr",1,0,0,0,0,FALSE
+"163:24:3","Baja California, Norte","ejidos","vacunos_cabezas_suma","14 357","ocr",1,0,1,0,0,FALSE
+"163:24:5","Baja California, Norte","ejidos","vacunos_cabezas_corriente","8 027","ocr",2,0,1,0,0,FALSE
+"163:24:6","Baja California, Norte","ejidos","vacunos_valor_suma","5 753 684","ocr",1,0,0,0,0,FALSE
+"163:25:3","Baja California, Norte","en_poblaciones","vacunos_cabezas_suma","1 337","ocr",1,0,1,0,0,FALSE
+"163:25:4","Baja California, Norte","en_poblaciones","vacunos_cabezas_fino","472","ocr",1,0,0,0,0,FALSE
+"163:25:5","Baja California, Norte","en_poblaciones","vacunos_cabezas_corriente","865","ocr",1,0,1,0,0,FALSE
+"163:25:6","Baja California, Norte","en_poblaciones","vacunos_valor_suma","481 355","ocr",1,0,0,0,0,FALSE
+"163:25:7","Baja California, Norte","en_poblaciones","vacunos_valor_fino","277 840","ocr",1,0,0,0,0,FALSE
+"163:25:8","Baja California, Norte","en_poblaciones","vacunos_valor_corriente","203 515","ocr",1,0,0,0,0,FALSE
+"163:26:3","Baja California, Sur","total","vacunos_cabezas_suma","102 332","ocr",1,0,0,0,0,FALSE
+"163:26:5","Baja California, Sur","total","vacunos_cabezas_corriente","101 653","ocr",0,0,1,0,0,FALSE
+"163:26:6","Baja California, Sur","total","vacunos_valor_suma","14 559 901","ocr",0,0,1,0,0,FALSE
+"163:27:3","Baja California, Sur","mayores_5ha","vacunos_cabezas_suma","77 776","ocr",1,0,0,0,0,FALSE
+"163:27:5","Baja California, Sur","mayores_5ha","vacunos_cabezas_corriente","77 430","ocr",1,0,1,0,0,FALSE
+"163:27:6","Baja California, Sur","mayores_5ha","vacunos_valor_suma","10 703 875","ocr",2,0,1,0,0,FALSE
+"163:27:8","Baja California, Sur","mayores_5ha","vacunos_valor_corriente","10 585 955","ocr",1,0,0,0,0,FALSE
+"163:28:3","Baja California, Sur","hasta_5ha","vacunos_cabezas_suma","4 781","ocr",2,0,0,0,0,FALSE
+"163:28:4","Baja California, Sur","hasta_5ha","vacunos_cabezas_fino","22","ocr",0,1,0,0,0,FALSE
+"163:28:5","Baja California, Sur","hasta_5ha","vacunos_cabezas_corriente","4 759","ocr",2,0,1,0,0,FALSE
+"163:28:7","Baja California, Sur","hasta_5ha","vacunos_valor_fino","9 000","ocr",2,0,0,1,0,FALSE
+"163:28:8","Baja California, Sur","hasta_5ha","vacunos_valor_corriente","745 134","ocr",1,0,0,1,0,FALSE
+"163:29:3","Baja California, Sur","ejidos","vacunos_cabezas_suma","6 347","ocr",1,0,0,0,0,FALSE
+"163:29:5","Baja California, Sur","ejidos","vacunos_cabezas_corriente","347","ocr",2,0,1,0,0,FALSE
+"163:29:6","Baja California, Sur","ejidos","vacunos_valor_suma","1 080 895","ocr",1,0,1,0,0,FALSE
+"163:2:3","Tabasco","mayores_5ha","vacunos_cabezas_suma","213 738","ocr",2,0,1,0,0,FALSE
+"163:2:5","Tabasco","mayores_5ha","vacunos_cabezas_corriente","208 813","ocr",1,0,1,0,0,FALSE
+"163:2:6","Tabasco","mayores_5ha","vacunos_valor_suma","47 510 634","ocr",2,0,0,0,0,FALSE
+"163:2:8","Tabasco","mayores_5ha","vacunos_valor_corriente","45 041 534","ocr",2,0,0,0,0,FALSE
+"163:30:3","Baja California, Sur","en_poblaciones","vacunos_cabezas_suma","13 428","ocr",1,0,0,0,0,FALSE
+"163:30:4","Baja California, Sur","en_poblaciones","vacunos_cabezas_fino","311","ocr",1,0,0,0,0,FALSE
+"163:30:5","Baja California, Sur","en_poblaciones","vacunos_cabezas_corriente","13 117","ocr",1,0,1,0,0,FALSE
+"163:30:6","Baja California, Sur","en_poblaciones","vacunos_valor_suma","2 020 997","ocr",1,0,1,0,0,FALSE
+"163:30:7","Baja California, Sur","en_poblaciones","vacunos_valor_fino","82 305","ocr",1,0,0,0,0,FALSE
+"163:30:8","Baja California, Sur","en_poblaciones","vacunos_valor_corriente","1 938 692","ocr",1,0,0,0,0,FALSE
+"163:31:3","Nayarit","total","vacunos_cabezas_suma","301 595","ocr",1,0,0,0,0,FALSE
+"163:31:5","Nayarit","total","vacunos_cabezas_corriente","288 573","ocr",0,0,1,0,0,FALSE
+"163:32:3","Nayarit","mayores_5ha","vacunos_cabezas_suma","73 373","ocr",1,0,0,0,0,FALSE
+"163:32:5","Nayarit","mayores_5ha","vacunos_cabezas_corriente","71 056","ocr",1,0,1,0,0,FALSE
+"163:32:6","Nayarit","mayores_5ha","vacunos_valor_suma","11 954 514","ocr",2,0,0,0,0,FALSE
+"163:32:8","Nayarit","mayores_5ha","vacunos_valor_corriente","11 159 439","ocr",1,0,0,0,0,FALSE
+"163:33:3","Nayarit","hasta_5ha","vacunos_cabezas_suma","4 393","ocr",2,0,0,1,0,FALSE
+"163:33:4","Nayarit","hasta_5ha","vacunos_cabezas_fino","62","ocr",0,1,0,1,0,FALSE
+"163:33:6","Nayarit","hasta_5ha","vacunos_valor_suma","894 919","ocr",2,0,0,0,0,FALSE
+"163:33:7","Nayarit","hasta_5ha","vacunos_valor_fino","31 800","ocr",2,0,0,0,0,FALSE
+"163:33:8","Nayarit","hasta_5ha","vacunos_valor_corriente","863 119","ocr",1,0,0,0,0,FALSE
+"163:34:3","Nayarit","ejidos","vacunos_cabezas_suma","102 964","ocr",1,0,0,0,0,FALSE
+"163:34:5","Nayarit","ejidos","vacunos_cabezas_corriente","100 856","ocr",2,0,1,0,0,FALSE
+"163:34:6","Nayarit","ejidos","vacunos_valor_suma","17 790 573","ocr",1,0,0,0,0,FALSE
+"163:35:3","Nayarit","en_poblaciones","vacunos_cabezas_suma","120 865","ocr",1,0,0,0,0,FALSE
+"163:35:4","Nayarit","en_poblaciones","vacunos_cabezas_fino","8 535","ocr",1,0,0,0,0,FALSE
+"163:35:5","Nayarit","en_poblaciones","vacunos_cabezas_corriente","112 330","ocr",1,0,1,0,0,FALSE
+"163:35:6","Nayarit","en_poblaciones","vacunos_valor_suma","26 322 750","ocr",1,0,0,0,0,FALSE
+"163:35:7","Nayarit","en_poblaciones","vacunos_valor_fino","3 604 200","ocr",1,0,0,0,0,FALSE
+"163:35:8","Nayarit","en_poblaciones","vacunos_valor_corriente","22 718 550","ocr",1,0,0,0,0,FALSE
+"163:36:3","Sinaloa","total","vacunos_cabezas_suma","593 615","ocr",1,0,0,0,0,FALSE
+"163:36:6","Sinaloa","total","vacunos_valor_suma","97 484 770","ocr",0,0,1,0,0,FALSE
+"163:36:7","Sinaloa","total","vacunos_valor_fino","7 467 158","ocr",0,0,1,0,0,FALSE
+"163:37:3","Sinaloa","mayores_5ha","vacunos_cabezas_suma","218 851","ocr",1,0,0,0,0,FALSE
+"163:37:5","Sinaloa","mayores_5ha","vacunos_cabezas_corriente","211 986","ocr",1,0,0,0,0,FALSE
+"163:37:6","Sinaloa","mayores_5ha","vacunos_valor_suma","34 781 020","ocr",2,0,1,0,0,FALSE
+"163:37:7","Sinaloa","mayores_5ha","vacunos_valor_fino","2 310 760","ocr",0,0,1,0,0,FALSE
+"163:37:8","Sinaloa","mayores_5ha","vacunos_valor_corriente","32 470 260","ocr",1,0,0,0,0,FALSE
+"163:38:3","Sinaloa","hasta_5ha","vacunos_cabezas_suma","21 470","ocr",2,0,0,0,0,FALSE
+"163:38:5","Sinaloa","hasta_5ha","vacunos_cabezas_corriente","21 468","ocr",2,0,0,0,0,FALSE
+"163:38:8","Sinaloa","hasta_5ha","vacunos_valor_corriente","4 026 582","ocr",1,0,0,1,0,FALSE
+"163:39:3","Sinaloa","ejidos","vacunos_cabezas_suma","114 957","ocr",1,0,0,0,0,FALSE
+"163:39:5","Sinaloa","ejidos","vacunos_cabezas_corriente","113 988","ocr",2,0,0,0,0,FALSE
+"163:39:6","Sinaloa","ejidos","vacunos_valor_suma","18 570 745","ocr",1,0,1,0,0,FALSE
+"163:39:7","Sinaloa","ejidos","vacunos_valor_fino","269 050","ocr",0,0,1,0,0,FALSE
+"163:3:3","Tabasco","hasta_5ha","vacunos_cabezas_suma","590","ocr",2,0,1,0,0,FALSE
+"163:3:5","Tabasco","hasta_5ha","vacunos_cabezas_corriente","583","ocr",2,0,1,0,0,FALSE
+"163:3:6","Tabasco","hasta_5ha","vacunos_valor_suma","623 189","ocr",1,0,0,0,0,FALSE
+"163:3:7","Tabasco","hasta_5ha","vacunos_valor_fino","3 050","ocr",1,0,0,0,0,FALSE
+"163:3:8","Tabasco","hasta_5ha","vacunos_valor_corriente","620 139","ocr",1,0,0,0,0,FALSE
+"163:40:3","Sinaloa","en_poblaciones","vacunos_cabezas_suma","238 337","ocr",1,0,0,0,0,FALSE
+"163:40:4","Sinaloa","en_poblaciones","vacunos_cabezas_fino","17 564","ocr",1,0,0,0,0,FALSE
+"163:40:5","Sinaloa","en_poblaciones","vacunos_cabezas_corriente","220 773","ocr",1,0,0,0,0,FALSE
+"163:40:6","Sinaloa","en_poblaciones","vacunos_valor_suma","40 105 223","ocr",1,0,1,0,0,FALSE
+"163:40:7","Sinaloa","en_poblaciones","vacunos_valor_fino","4 886 148","ocr",1,0,1,0,0,FALSE
+"163:40:8","Sinaloa","en_poblaciones","vacunos_valor_corriente","35 219 075","ocr",1,0,0,0,0,FALSE
+"163:41:3","Sonora","total","vacunos_cabezas_suma","880 543","ocr",1,0,0,0,0,FALSE
+"163:41:6","Sonora","total","vacunos_valor_suma","155 699 765","ocr",0,0,1,0,0,FALSE
+"163:42:3","Sonora","mayores_5ha","vacunos_cabezas_suma","658 525","ocr",1,0,0,0,0,FALSE
+"163:42:5","Sonora","mayores_5ha","vacunos_cabezas_corriente","596 481","ocr",1,0,0,0,0,FALSE
+"163:42:7","Sonora","mayores_5ha","vacunos_valor_fino","18 660 150","ocr",0,0,0,1,0,FALSE
+"163:42:8","Sonora","mayores_5ha","vacunos_valor_corriente","94 084 299","ocr",1,0,0,1,0,FALSE
+"163:43:3","Sonora","hasta_5ha","vacunos_cabezas_suma","32 885","ocr",2,0,0,0,0,FALSE
+"163:43:4","Sonora","hasta_5ha","vacunos_cabezas_fino","347","ocr",0,1,0,0,0,FALSE
+"163:43:5","Sonora","hasta_5ha","vacunos_cabezas_corriente","32 538","ocr",2,0,0,0,0,FALSE
+"163:43:6","Sonora","hasta_5ha","vacunos_valor_suma","6 027 256","ocr",2,0,1,0,0,FALSE
+"163:43:7","Sonora","hasta_5ha","vacunos_valor_fino","141 475","ocr",2,0,0,0,0,FALSE
+"163:43:8","Sonora","hasta_5ha","vacunos_valor_corriente","5 885 781","ocr",1,0,0,0,0,FALSE
+"163:44:3","Sonora","ejidos","vacunos_cabezas_suma","97 352","ocr",1,0,0,0,0,FALSE
+"163:44:5","Sonora","ejidos","vacunos_cabezas_corriente","96 172","ocr",2,0,0,0,0,FALSE
+"163:44:6","Sonora","ejidos","vacunos_valor_suma","15 889 060","ocr",1,0,1,0,0,FALSE
+"163:45:3","Sonora","en_poblaciones","vacunos_cabezas_suma","91 781","ocr",1,0,0,0,0,FALSE
+"163:45:4","Sonora","en_poblaciones","vacunos_cabezas_fino","6 640","ocr",1,0,0,0,0,FALSE
+"163:45:5","Sonora","en_poblaciones","vacunos_cabezas_corriente","85 141","ocr",1,0,0,0,0,FALSE
+"163:45:6","Sonora","en_poblaciones","vacunos_valor_suma","21 039 000","ocr",1,0,1,0,0,FALSE
+"163:45:7","Sonora","en_poblaciones","vacunos_valor_fino","2 450 900","ocr",1,0,0,0,0,FALSE
+"163:45:8","Sonora","en_poblaciones","vacunos_valor_corriente","18 588 100","ocr",1,0,0,0,0,FALSE
+"163:48:3","PAC<U+00CD>FICO SUR","hasta_5ha","vacunos_cabezas_suma","137 868","ocr",1,0,0,0,0,FALSE
+"163:48:4","PAC<U+00CD>FICO SUR","hasta_5ha","vacunos_cabezas_fino","562","ocr",1,0,0,0,0,FALSE
+"163:48:5","PAC<U+00CD>FICO SUR","hasta_5ha","vacunos_cabezas_corriente","137 306","ocr",1,0,0,0,0,FALSE
+"163:48:8","PAC<U+00CD>FICO SUR","hasta_5ha","vacunos_valor_corriente","24 940 084","ocr",1,0,0,0,0,FALSE
+"163:49:5","PAC<U+00CD>FICO SUR","ejidos","vacunos_cabezas_corriente","308 982","ocr",1,0,0,0,0,FALSE
+"163:4:3","Tabasco","ejidos","vacunos_cabezas_suma","36 827","ocr",1,0,1,0,0,FALSE
+"163:4:5","Tabasco","ejidos","vacunos_cabezas_corriente","36 794","ocr",2,0,1,0,0,FALSE
+"163:4:6","Tabasco","ejidos","vacunos_valor_suma","7 085 970","ocr",1,0,0,0,0,FALSE
+"163:50:8","PAC<U+00CD>FICO SUR","en_poblaciones","vacunos_valor_corriente","71 887 953","ocr",1,0,0,0,0,FALSE
+"163:51:3","Colima","total","vacunos_cabezas_suma","77 685","ocr",1,0,1,0,0,FALSE
+"163:51:5","Colima","total","vacunos_cabezas_corriente","75 330","ocr",0,0,1,0,0,FALSE
+"163:51:8","Colima","total","vacunos_valor_corriente","17 878 788","ocr",0,0,1,0,0,FALSE
+"163:52:3","Colima","mayores_5ha","vacunos_cabezas_suma","47 588","ocr",1,0,1,0,0,FALSE
+"163:52:5","Colima","mayores_5ha","vacunos_cabezas_corriente","46 993","ocr",1,0,1,0,0,FALSE
+"163:52:6","Colima","mayores_5ha","vacunos_valor_suma","11 259 810","ocr",1,0,0,0,0,FALSE
+"163:52:8","Colima","mayores_5ha","vacunos_valor_corriente","10 898 710","ocr",1,0,1,0,0,FALSE
+"163:53:3","Colima","hasta_5ha","vacunos_cabezas_suma","685","ocr",2,0,1,0,0,FALSE
+"163:53:5","Colima","hasta_5ha","vacunos_cabezas_corriente","669","ocr",2,0,1,0,0,FALSE
+"163:53:6","Colima","hasta_5ha","vacunos_valor_suma","417 311","ocr",1,0,0,0,0,FALSE
+"163:53:7","Colima","hasta_5ha","vacunos_valor_fino","15 150","ocr",1,0,0,0,0,FALSE
+"163:53:8","Colima","hasta_5ha","vacunos_valor_corriente","402 161","ocr",2,0,1,0,0,FALSE
+"163:54:4","Colima","ejidos","vacunos_cabezas_fino","404","ocr",0,0,0,1,0,FALSE
+"163:54:6","Colima","ejidos","vacunos_valor_suma","3 600 745","ocr",1,0,0,0,0,FALSE
+"163:54:8","Colima","ejidos","vacunos_valor_corriente","3 411 220","ocr",0,0,1,0,0,FALSE
+"163:55:3","Colima","en_poblaciones","vacunos_cabezas_suma","13 738","ocr",1,0,1,0,0,FALSE
+"163:55:4","Colima","en_poblaciones","vacunos_cabezas_fino","1 340","ocr",1,0,0,0,0,FALSE
+"163:55:5","Colima","en_poblaciones","vacunos_cabezas_corriente","12 398","ocr",1,0,1,0,0,FALSE
+"163:55:6","Colima","en_poblaciones","vacunos_valor_suma","3 915 697","ocr",1,0,0,1,0,FALSE
+"163:55:7","Colima","en_poblaciones","vacunos_valor_fino","749 000","ocr",1,0,0,1,0,FALSE
+"163:56:3","Chiapas","total","vacunos_cabezas_suma","480 308","ocr",1,0,1,0,0,FALSE
+"163:56:8","Chiapas","total","vacunos_valor_corriente","71 460 715","ocr",0,0,1,0,0,FALSE
+"163:57:3","Chiapas","mayores_5ha","vacunos_cabezas_suma","345 012","ocr",1,0,1,0,0,FALSE
+"163:57:5","Chiapas","mayores_5ha","vacunos_cabezas_corriente","338 277","ocr",1,0,0,0,0,FALSE
+"163:57:6","Chiapas","mayores_5ha","vacunos_valor_suma","54 201 919","ocr",1,0,0,0,0,FALSE
+"163:57:8","Chiapas","mayores_5ha","vacunos_valor_corriente","51 292 064","ocr",1,0,1,0,0,FALSE
+"163:58:4","Chiapas","hasta_5ha","vacunos_cabezas_fino","76","ocr",0,0,0,1,0,FALSE
+"163:58:5","Chiapas","hasta_5ha","vacunos_cabezas_corriente","6 683","ocr",2,0,0,1,0,FALSE
+"163:58:6","Chiapas","hasta_5ha","vacunos_valor_suma","1 150 815","ocr",1,0,0,1,0,FALSE
+"163:58:7","Chiapas","hasta_5ha","vacunos_valor_fino","29 280","ocr",1,0,0,1,0,FALSE
+"163:59:3","Chiapas","ejidos","vacunos_cabezas_suma","91 891","ocr",1,0,1,0,0,FALSE
+"163:59:5","Chiapas","ejidos","vacunos_cabezas_corriente","90 783","ocr",2,0,0,0,0,FALSE
+"163:59:6","Chiapas","ejidos","vacunos_valor_suma","14 151 889","ocr",1,0,0,0,0,FALSE
+"163:59:8","Chiapas","ejidos","vacunos_valor_corriente","13 828 549","ocr",0,0,1,0,0,FALSE
+"163:5:3","Tabasco","en_poblaciones","vacunos_cabezas_suma","29 283","ocr",2,0,1,0,0,FALSE
+"163:5:4","Tabasco","en_poblaciones","vacunos_cabezas_fino","2 332","ocr",2,0,0,0,0,FALSE
+"163:5:5","Tabasco","en_poblaciones","vacunos_cabezas_corriente","26 951","ocr",1,0,1,0,0,FALSE
+"163:5:6","Tabasco","en_poblaciones","vacunos_valor_suma","8 102 750","ocr",1,0,0,0,0,FALSE
+"163:5:7","Tabasco","en_poblaciones","vacunos_valor_fino","1 152 350","ocr",1,0,0,0,0,FALSE
+"163:5:8","Tabasco","en_poblaciones","vacunos_valor_corriente","6 950 400","ocr",1,0,0,0,0,FALSE
+"163:60:3","Chiapas","en_poblaciones","vacunos_cabezas_suma","36 646","ocr",1,0,1,0,0,FALSE
+"163:60:4","Chiapas","en_poblaciones","vacunos_cabezas_fino","3 359","ocr",1,0,0,0,0,FALSE
+"163:60:5","Chiapas","en_poblaciones","vacunos_cabezas_corriente","33 287","ocr",1,0,0,0,0,FALSE
+"163:60:6","Chiapas","en_poblaciones","vacunos_valor_suma","6 431 062","ocr",1,0,0,0,0,FALSE
+"163:60:7","Chiapas","en_poblaciones","vacunos_valor_fino","1 212 495","ocr",1,0,0,0,0,FALSE
+"163:60:8","Chiapas","en_poblaciones","vacunos_valor_corriente","5 218 567","ocr",2,0,1,0,0,FALSE
+"163:6:3","Veracruz","total","vacunos_cabezas_suma","1 270 363","ocr",1,0,0,0,0,FALSE
+"163:6:4","Veracruz","total","vacunos_cabezas_fino","70 108","ocr",0,0,1,0,0,FALSE
+"163:6:8","Veracruz","total","vacunos_valor_corriente","285 387 525","ocr",0,0,1,0,0,FALSE
+"163:7:3","Veracruz","mayores_5ha","vacunos_cabezas_suma","739 758","ocr",2,0,0,1,0,FALSE
+"163:7:5","Veracruz","mayores_5ha","vacunos_cabezas_corriente","705 347","ocr",1,0,0,1,0,FALSE
+"163:7:6","Veracruz","mayores_5ha","vacunos_valor_suma","181 772 839","ocr",2,0,0,1,0,FALSE
+"163:7:7","Veracruz","mayores_5ha","vacunos_valor_fino","20 304 230","ocr",0,0,0,1,0,FALSE
+"163:8:3","Veracruz","hasta_5ha","vacunos_cabezas_suma","29 494","ocr",2,0,0,0,0,FALSE
+"163:8:4","Veracruz","hasta_5ha","vacunos_cabezas_fino","343","ocr",0,0,1,0,0,FALSE
+"163:8:5","Veracruz","hasta_5ha","vacunos_cabezas_corriente","29 151","ocr",2,0,0,0,0,FALSE
+"163:8:6","Veracruz","hasta_5ha","vacunos_valor_suma","7 445 156","ocr",1,0,0,0,0,FALSE
+"163:8:7","Veracruz","hasta_5ha","vacunos_valor_fino","215 600","ocr",1,0,0,0,0,FALSE
+"163:8:8","Veracruz","hasta_5ha","vacunos_valor_corriente","7 229 556","ocr",1,0,1,0,0,FALSE
+"163:9:3","Veracruz","ejidos","vacunos_cabezas_suma","235 972","ocr",1,0,0,0,0,FALSE
+"163:9:4","Veracruz","ejidos","vacunos_cabezas_fino","6 400","ocr",0,0,1,0,0,FALSE
+"163:9:5","Veracruz","ejidos","vacunos_cabezas_corriente","229 572","ocr",2,0,0,0,0,FALSE
+"163:9:6","Veracruz","ejidos","vacunos_valor_suma","58 234 610","ocr",1,0,0,0,0,FALSE
+"163:9:8","Veracruz","ejidos","vacunos_valor_corriente","54 720 370","ocr",0,0,1,0,0,FALSE
+"164:10:3","Oaxaca","en_poblaciones","vacunos_cabezas_suma","147 772","ocr",1,0,0,0,0,FALSE
+"164:10:4","Oaxaca","en_poblaciones","vacunos_cabezas_fino","11 147","ocr",1,0,0,0,0,FALSE
+"164:10:5","Oaxaca","en_poblaciones","vacunos_cabezas_corriente","136 625","ocr",1,0,0,0,0,FALSE
+"164:10:6","Oaxaca","en_poblaciones","vacunos_valor_suma","27 141 375","ocr",1,0,0,0,0,FALSE
+"164:10:7","Oaxaca","en_poblaciones","vacunos_valor_fino","4 057 800","ocr",1,0,0,0,0,FALSE
+"164:10:8","Oaxaca","en_poblaciones","vacunos_valor_corriente","23 083 575","ocr",2,0,0,0,0,FALSE
+"164:13:3","CENTRO","hasta_5ha","vacunos_cabezas_suma","344 505","ocr",1,0,0,0,0,FALSE
+"164:13:4","CENTRO","hasta_5ha","vacunos_cabezas_fino","15 545","ocr",1,0,0,0,0,FALSE
+"164:13:5","CENTRO","hasta_5ha","vacunos_cabezas_corriente","328 960","ocr",1,0,0,0,0,FALSE
+"164:13:6","CENTRO","hasta_5ha","vacunos_valor_suma","112 881 336","ocr",1,0,0,0,0,FALSE
+"164:14:3","CENTRO","ejidos","vacunos_cabezas_suma","935 834","ocr",1,0,0,0,0,FALSE
+"164:14:6","CENTRO","ejidos","vacunos_valor_suma","220 856 047","ocr",1,0,0,0,0,FALSE
+"164:14:7","CENTRO","ejidos","vacunos_valor_fino","15 961 635","ocr",1,0,0,0,0,FALSE
+"164:15:4","CENTRO","en_poblaciones","vacunos_cabezas_fino","153 691","ocr",1,0,0,0,0,FALSE
+"164:15:5","CENTRO","en_poblaciones","vacunos_cabezas_corriente","1 161 956","ocr",1,0,0,0,0,FALSE
+"164:15:6","CENTRO","en_poblaciones","vacunos_valor_suma","413 121 084","ocr",1,0,0,0,0,FALSE
+"164:16:3","Aguascalientes","total","vacunos_cabezas_suma","74 304","ocr",1,0,1,0,0,FALSE
+"164:17:3","Aguascalientes","mayores_5ha","vacunos_cabezas_suma","26 851","ocr",1,0,1,0,0,FALSE
+"164:17:5","Aguascalientes","mayores_5ha","vacunos_cabezas_corriente","23 858","ocr",1,0,0,0,0,FALSE
+"164:17:6","Aguascalientes","mayores_5ha","vacunos_valor_suma","5 851 245","ocr",1,0,0,0,0,FALSE
+"164:17:8","Aguascalientes","mayores_5ha","vacunos_valor_corriente","3 829 495","ocr",1,0,0,0,0,FALSE
+"164:18:4","Aguascalientes","hasta_5ha","vacunos_cabezas_fino","81","ocr",0,0,0,1,0,FALSE
+"164:18:5","Aguascalientes","hasta_5ha","vacunos_cabezas_corriente","1 224","ocr",2,0,0,1,0,FALSE
+"164:18:6","Aguascalientes","hasta_5ha","vacunos_valor_suma","248 662","ocr",2,0,0,0,0,FALSE
+"164:18:7","Aguascalientes","hasta_5ha","vacunos_valor_fino","47 040","ocr",1,0,0,0,0,FALSE
+"164:18:8","Aguascalientes","hasta_5ha","vacunos_valor_corriente","201 622","ocr",1,0,0,0,0,FALSE
+"164:19:3","Aguascalientes","ejidos","vacunos_cabezas_suma","27 541","ocr",2,0,1,0,0,FALSE
+"164:19:5","Aguascalientes","ejidos","vacunos_cabezas_corriente","26 373","ocr",1,0,0,0,0,FALSE
+"164:19:6","Aguascalientes","ejidos","vacunos_valor_suma","6 397 105","ocr",2,0,0,0,0,FALSE
+"164:19:7","Aguascalientes","ejidos","vacunos_valor_fino","601 760","ocr",1,0,0,0,0,FALSE
+"164:1:3","Guerrero","total","vacunos_cabezas_suma","495 117","ocr",1,0,0,0,0,FALSE
+"164:20:3","Aguascalientes","en_poblaciones","vacunos_cabezas_suma","18 607","ocr",1,0,1,0,0,FALSE
+"164:20:4","Aguascalientes","en_poblaciones","vacunos_cabezas_fino","3 784","ocr",2,0,0,0,0,FALSE
+"164:20:5","Aguascalientes","en_poblaciones","vacunos_cabezas_corriente","14 823","ocr",2,0,0,0,0,FALSE
+"164:20:6","Aguascalientes","en_poblaciones","vacunos_valor_suma","4 455 224","ocr",2,0,0,0,0,FALSE
+"164:20:7","Aguascalientes","en_poblaciones","vacunos_valor_fino","2 138 620","ocr",1,0,0,0,0,FALSE
+"164:20:8","Aguascalientes","en_poblaciones","vacunos_valor_corriente","2 316 604","ocr",1,0,0,0,0,FALSE
+"164:21:3","Distrito Federal","total","vacunos_cabezas_suma","76 328","ocr",1,0,0,0,0,FALSE
+"164:21:5","Distrito Federal","total","vacunos_cabezas_corriente","44 875","ocr",0,0,1,0,0,FALSE
+"164:22:3","Distrito Federal","mayores_5ha","vacunos_cabezas_suma","13 769","ocr",1,0,0,0,0,FALSE
+"164:22:5","Distrito Federal","mayores_5ha","vacunos_cabezas_corriente","2 962","ocr",1,0,1,0,0,FALSE
+"164:22:6","Distrito Federal","mayores_5ha","vacunos_valor_suma","25 503 545","ocr",1,0,0,0,0,FALSE
+"164:22:8","Distrito Federal","mayores_5ha","vacunos_valor_corriente","2 326 600","ocr",1,0,0,0,0,FALSE
+"164:23:3","Distrito Federal","hasta_5ha","vacunos_cabezas_suma","15 751","ocr",2,0,0,0,0,FALSE
+"164:23:5","Distrito Federal","hasta_5ha","vacunos_cabezas_corriente","7 864","ocr",2,0,1,0,0,FALSE
+"164:23:6","Distrito Federal","hasta_5ha","vacunos_valor_suma","17 093 269","ocr",2,0,0,0,0,FALSE
+"164:23:7","Distrito Federal","hasta_5ha","vacunos_valor_fino","12 146 500","ocr",1,0,0,0,0,FALSE
+"164:23:8","Distrito Federal","hasta_5ha","vacunos_valor_corriente","4 946 769","ocr",1,0,0,0,0,FALSE
+"164:24:3","Distrito Federal","ejidos","vacunos_cabezas_suma","13 974","ocr",2,0,0,0,0,FALSE
+"164:24:5","Distrito Federal","ejidos","vacunos_cabezas_corriente","13 163","ocr",1,0,1,0,0,FALSE
+"164:24:6","Distrito Federal","ejidos","vacunos_valor_suma","7 238 930","ocr",2,0,0,0,0,FALSE
+"164:24:7","Distrito Federal","ejidos","vacunos_valor_fino","1 183 850","ocr",1,0,0,0,0,FALSE
+"164:25:3","Distrito Federal","en_poblaciones","vacunos_cabezas_suma","32 834","ocr",1,0,0,1,0,FALSE
+"164:25:4","Distrito Federal","en_poblaciones","vacunos_cabezas_fino","11 948","ocr",2,0,0,1,0,FALSE
+"164:25:6","Distrito Federal","en_poblaciones","vacunos_valor_suma","34 276 941","ocr",2,0,0,0,0,FALSE
+"164:25:7","Distrito Federal","en_poblaciones","vacunos_valor_fino","25 097 205","ocr",1,0,0,0,0,FALSE
+"164:25:8","Distrito Federal","en_poblaciones","vacunos_valor_corriente","9 179 736","ocr",1,0,0,0,0,FALSE
+"164:26:3","Guanajuato","total","vacunos_cabezas_suma","381.357","ocr_normalizado",1,0,0,0,0,FALSE
+"164:27:3","Guanajuato","mayores_5ha","vacunos_cabezas_suma","95 906","ocr",1,0,0,0,0,FALSE
+"164:27:5","Guanajuato","mayores_5ha","vacunos_cabezas_corriente","84 027","ocr",1,0,0,0,0,FALSE
+"164:27:6","Guanajuato","mayores_5ha","vacunos_valor_suma","25 039 534","ocr",1,0,0,0,0,FALSE
+"164:27:8","Guanajuato","mayores_5ha","vacunos_valor_corriente","16 745 819","ocr",1,0,0,0,0,FALSE
+"164:28:3","Guanajuato","hasta_5ha","vacunos_cabezas_suma","15 218","ocr",2,0,0,0,0,FALSE
+"164:28:5","Guanajuato","hasta_5ha","vacunos_cabezas_corriente","14 847","ocr",2,0,0,0,0,FALSE
+"164:28:6","Guanajuato","hasta_5ha","vacunos_valor_suma","3 136 960","ocr",2,0,0,0,0,FALSE
+"164:28:7","Guanajuato","hasta_5ha","vacunos_valor_fino","266 370","ocr",1,0,0,0,0,FALSE
+"164:28:8","Guanajuato","hasta_5ha","vacunos_valor_corriente","2 870 590","ocr",1,0,0,0,0,FALSE
+"164:29:3","Guanajuato","ejidos","vacunos_cabezas_suma","76 043","ocr",2,0,0,0,0,FALSE
+"164:29:5","Guanajuato","ejidos","vacunos_cabezas_corriente","74 933","ocr",1,0,0,0,0,FALSE
+"164:29:6","Guanajuato","ejidos","vacunos_valor_suma","16 148 724","ocr",2,0,0,0,0,FALSE
+"164:29:7","Guanajuato","ejidos","vacunos_valor_fino","743 957","ocr",1,0,0,0,0,FALSE
+"164:2:3","Guerrero","mayores_5ha","vacunos_cabezas_suma","124 837","ocr",1,0,0,0,0,FALSE
+"164:2:5","Guerrero","mayores_5ha","vacunos_cabezas_corriente","123 696","ocr",1,0,0,0,0,FALSE
+"164:2:6","Guerrero","mayores_5ha","vacunos_valor_suma","19 614 095","ocr",1,0,0,0,0,FALSE
+"164:2:8","Guerrero","mayores_5ha","vacunos_valor_corriente","19 032 695","ocr",1,0,0,0,0,FALSE
+"164:30:3","Guanajuato","en_poblaciones","vacunos_cabezas_suma","194 190","ocr",1,0,0,0,0,FALSE
+"164:30:4","Guanajuato","en_poblaciones","vacunos_cabezas_fino","21 476","ocr",2,0,0,0,0,FALSE
+"164:30:5","Guanajuato","en_poblaciones","vacunos_cabezas_corriente","172 714","ocr",2,0,0,0,0,FALSE
+"164:30:6","Guanajuato","en_poblaciones","vacunos_valor_suma","53 197 859","ocr",2,0,0,0,0,FALSE
+"164:30:7","Guanajuato","en_poblaciones","vacunos_valor_fino","13 520 885","ocr",1,0,0,0,0,FALSE
+"164:30:8","Guanajuato","en_poblaciones","vacunos_valor_corriente","39 676 974","ocr",1,0,0,0,0,FALSE
+"164:31:3","Hidalgo","total","vacunos_cabezas_suma","232 539","ocr",1,0,0,0,0,FALSE
+"164:31:6","Hidalgo","total","vacunos_valor_suma","52 172 672","ocr",0,0,1,0,0,FALSE
+"164:32:3","Hidalgo","mayores_5ha","vacunos_cabezas_suma","52 371","ocr",1,0,0,0,0,FALSE
+"164:32:5","Hidalgo","mayores_5ha","vacunos_cabezas_corriente","45 852","ocr",1,0,0,0,0,FALSE
+"164:32:6","Hidalgo","mayores_5ha","vacunos_valor_suma","12 334 084","ocr",1,0,1,0,0,FALSE
+"164:32:8","Hidalgo","mayores_5ha","vacunos_valor_corriente","8 779 366","ocr",1,0,0,0,0,FALSE
+"164:33:3","Hidalgo","hasta_5ha","vacunos_cabezas_suma","42 470","ocr",2,0,0,0,0,FALSE
+"164:33:5","Hidalgo","hasta_5ha","vacunos_cabezas_corriente","41 785","ocr",2,0,0,0,0,FALSE
+"164:33:6","Hidalgo","hasta_5ha","vacunos_valor_suma","11 005 439","ocr",2,0,1,0,0,FALSE
+"164:33:7","Hidalgo","hasta_5ha","vacunos_valor_fino","482 240","ocr",1,0,0,0,0,FALSE
+"164:33:8","Hidalgo","hasta_5ha","vacunos_valor_corriente","10 523 199","ocr",1,0,0,0,0,FALSE
+"164:34:3","Hidalgo","ejidos","vacunos_cabezas_suma","76 237","ocr",2,0,0,0,0,FALSE
+"164:34:5","Hidalgo","ejidos","vacunos_cabezas_corriente","73 695","ocr",1,0,0,0,0,FALSE
+"164:34:7","Hidalgo","ejidos","vacunos_valor_fino","1 261 720","ocr",1,0,0,1,0,FALSE
+"164:34:8","Hidalgo","ejidos","vacunos_valor_corriente","14 647 545","ocr",0,0,0,1,0,FALSE
+"164:35:3","Hidalgo","en_poblaciones","vacunos_cabezas_suma","61 461","ocr",1,0,0,0,0,FALSE
+"164:35:4","Hidalgo","en_poblaciones","vacunos_cabezas_fino","6 090","ocr",2,0,0,0,0,FALSE
+"164:35:5","Hidalgo","en_poblaciones","vacunos_cabezas_corriente","55 371","ocr",2,0,0,0,0,FALSE
+"164:35:6","Hidalgo","en_poblaciones","vacunos_valor_suma","12 923 884","ocr",2,0,1,0,0,FALSE
+"164:35:7","Hidalgo","en_poblaciones","vacunos_valor_fino","2 666 496","ocr",1,0,0,0,0,FALSE
+"164:35:8","Hidalgo","en_poblaciones","vacunos_valor_corriente","10 257 388","ocr",1,0,0,0,0,FALSE
+"164:36:3","Jalisco","total","vacunos_cabezas_suma","1 187 411","ocr",1,0,0,0,0,FALSE
+"164:37:3","Jalisco","mayores_5ha","vacunos_cabezas_suma","617 054","ocr",1,0,0,0,0,FALSE
+"164:37:5","Jalisco","mayores_5ha","vacunos_cabezas_corriente","590 578","ocr",1,0,0,0,0,FALSE
+"164:37:6","Jalisco","mayores_5ha","vacunos_valor_suma","143 064 848","ocr",1,0,0,0,0,FALSE
+"164:37:8","Jalisco","mayores_5ha","vacunos_valor_corriente","130 397 627","ocr",1,0,0,0,0,FALSE
+"164:38:3","Jalisco","hasta_5ha","vacunos_cabezas_suma","66 869","ocr",2,0,0,0,0,FALSE
+"164:38:5","Jalisco","hasta_5ha","vacunos_cabezas_corriente","66 195","ocr",2,0,0,0,0,FALSE
+"164:38:6","Jalisco","hasta_5ha","vacunos_valor_suma","17 884 392","ocr",2,0,0,0,0,FALSE
+"164:38:7","Jalisco","hasta_5ha","vacunos_valor_fino","462 340","ocr",1,0,0,0,0,FALSE
+"164:38:8","Jalisco","hasta_5ha","vacunos_valor_corriente","17 422 052","ocr",1,0,0,0,0,FALSE
+"164:39:3","Jalisco","ejidos","vacunos_cabezas_suma","201 793","ocr",2,0,0,0,0,FALSE
+"164:39:5","Jalisco","ejidos","vacunos_cabezas_corriente","196 393","ocr",1,0,0,0,0,FALSE
+"164:39:6","Jalisco","ejidos","vacunos_valor_suma","44 968 177","ocr",2,0,0,0,0,FALSE
+"164:39:7","Jalisco","ejidos","vacunos_valor_fino","2 190 900","ocr",1,0,0,0,0,FALSE
+"164:3:3","Guerrero","hasta_5ha","vacunos_cabezas_suma","34 249","ocr",2,0,0,0,0,FALSE
+"164:3:5","Guerrero","hasta_5ha","vacunos_cabezas_corriente","34 138","ocr",2,0,0,0,0,FALSE
+"164:3:6","Guerrero","hasta_5ha","vacunos_valor_suma","6 233 482","ocr",1,0,0,0,0,FALSE
+"164:3:7","Guerrero","hasta_5ha","vacunos_valor_fino","82 630","ocr",1,0,0,0,0,FALSE
+"164:3:8","Guerrero","hasta_5ha","vacunos_valor_corriente","6 150 852","ocr",2,0,0,0,0,FALSE
+"164:40:3","Jalisco","en_poblaciones","vacunos_cabezas_suma","301 695","ocr",1,0,0,0,0,FALSE
+"164:40:4","Jalisco","en_poblaciones","vacunos_cabezas_fino","29 946","ocr",2,0,0,0,0,FALSE
+"164:40:5","Jalisco","en_poblaciones","vacunos_cabezas_corriente","271 749","ocr",2,0,0,0,0,FALSE
+"164:40:6","Jalisco","en_poblaciones","vacunos_valor_suma","78 754 434","ocr",2,0,0,0,0,FALSE
+"164:40:7","Jalisco","en_poblaciones","vacunos_valor_fino","12 858 285","ocr",1,0,0,0,0,FALSE
+"164:40:8","Jalisco","en_poblaciones","vacunos_valor_corriente","65 896 149","ocr",1,0,0,0,0,FALSE
+"164:41:3","M<U+00E9>xico","total","vacunos_cabezas_suma","517 867","ocr",1,0,0,0,0,FALSE
+"164:41:5","M<U+00E9>xico","total","vacunos_cabezas_corriente","429 870","ocr",0,0,1,0,0,FALSE
+"164:41:6","M<U+00E9>xico","total","vacunos_valor_suma","184 289 122","ocr",0,0,1,0,0,FALSE
+"164:42:3","M<U+00E9>xico","mayores_5ha","vacunos_cabezas_suma","104 737","ocr",1,0,0,0,0,FALSE
+"164:42:5","M<U+00E9>xico","mayores_5ha","vacunos_cabezas_corriente","50 950","ocr",1,0,1,0,0,FALSE
+"164:42:6","M<U+00E9>xico","mayores_5ha","vacunos_valor_suma","54 856 315","ocr",1,0,1,0,0,FALSE
+"164:42:8","M<U+00E9>xico","mayores_5ha","vacunos_valor_corriente","12 631 445","ocr",1,0,0,0,0,FALSE
+"164:43:3","M<U+00E9>xico","hasta_5ha","vacunos_cabezas_suma","71 070","ocr",2,0,0,0,0,FALSE
+"164:43:5","M<U+00E9>xico","hasta_5ha","vacunos_cabezas_corriente","69 786","ocr",2,0,1,0,0,FALSE
+"164:43:7","M<U+00E9>xico","hasta_5ha","vacunos_valor_fino","892 774","ocr",1,0,0,1,0,FALSE
+"164:43:8","M<U+00E9>xico","hasta_5ha","vacunos_valor_corriente","21 082 181","ocr",1,0,0,1,0,FALSE
+"164:44:3","M<U+00E9>xico","ejidos","vacunos_cabezas_suma","151 923","ocr",2,0,0,0,0,FALSE
+"164:44:5","M<U+00E9>xico","ejidos","vacunos_cabezas_corriente","146 458","ocr",1,0,1,0,0,FALSE
+"164:44:6","M<U+00E9>xico","ejidos","vacunos_valor_suma","39 128 675","ocr",2,0,1,0,0,FALSE
+"164:44:7","M<U+00E9>xico","ejidos","vacunos_valor_fino","3 145 950","ocr",1,0,0,0,0,FALSE
+"164:45:3","M<U+00E9>xico","en_poblaciones","vacunos_cabezas_suma","190 137","ocr",1,0,0,1,0,FALSE
+"164:45:4","M<U+00E9>xico","en_poblaciones","vacunos_cabezas_fino","27 461","ocr",2,0,0,1,0,FALSE
+"164:45:6","M<U+00E9>xico","en_poblaciones","vacunos_valor_suma","68 329 177","ocr",2,0,1,0,0,FALSE
+"164:45:7","M<U+00E9>xico","en_poblaciones","vacunos_valor_fino","21 140 846","ocr",1,0,0,0,0,FALSE
+"164:45:8","M<U+00E9>xico","en_poblaciones","vacunos_valor_corriente","47 188 331","ocr",1,0,0,0,0,FALSE
+"164:46:3","Michoac<U+00E1>n","total","vacunos_cabezas_suma","851 515","ocr",1,0,1,0,0,FALSE
+"164:46:5","Michoac<U+00E1>n","total","vacunos_cabezas_corriente","814 633","ocr",0,0,1,0,0,FALSE
+"164:47:3","Michoac<U+00E1>n","mayores_5ha","vacunos_cabezas_suma","257 252","ocr",1,0,1,0,0,FALSE
+"164:47:5","Michoac<U+00E1>n","mayores_5ha","vacunos_cabezas_corriente","251 608","ocr",1,0,1,0,0,FALSE
+"164:47:6","Michoac<U+00E1>n","mayores_5ha","vacunos_valor_suma","45 568 933","ocr",1,0,0,0,0,FALSE
+"164:47:8","Michoac<U+00E1>n","mayores_5ha","vacunos_valor_corriente","43 022 363","ocr",1,0,0,0,0,FALSE
+"164:48:4","Michoac<U+00E1>n","hasta_5ha","vacunos_cabezas_fino","379","ocr",0,0,0,1,0,FALSE
+"164:48:6","Michoac<U+00E1>n","hasta_5ha","vacunos_valor_suma","15 000 117","ocr",2,0,0,0,0,FALSE
+"164:48:7","Michoac<U+00E1>n","hasta_5ha","vacunos_valor_fino","224 335","ocr",1,0,0,0,0,FALSE
+"164:48:8","Michoac<U+00E1>n","hasta_5ha","vacunos_valor_corriente","14 775 782","ocr",1,0,0,0,0,FALSE
+"164:49:4","Michoac<U+00E1>n","ejidos","vacunos_cabezas_fino","6 932","ocr",0,0,0,1,0,FALSE
+"164:49:6","Michoac<U+00E1>n","ejidos","vacunos_valor_suma","51 588 419","ocr",2,0,0,0,0,FALSE
+"164:49:7","Michoac<U+00E1>n","ejidos","vacunos_valor_fino","3 028 918","ocr",1,0,0,0,0,FALSE
+"164:4:3","Guerrero","ejidos","vacunos_cabezas_suma","124 983","ocr",1,0,0,0,0,FALSE
+"164:4:5","Guerrero","ejidos","vacunos_cabezas_corriente","123 366","ocr",2,0,0,0,0,FALSE
+"164:4:6","Guerrero","ejidos","vacunos_valor_suma","20 052 685","ocr",1,0,0,0,0,FALSE
+"164:50:3","Michoac<U+00E1>n","en_poblaciones","vacunos_cabezas_suma","300 211","ocr",1,0,1,0,0,FALSE
+"164:50:4","Michoac<U+00E1>n","en_poblaciones","vacunos_cabezas_fino","23 927","ocr",2,0,0,0,0,FALSE
+"164:50:5","Michoac<U+00E1>n","en_poblaciones","vacunos_cabezas_corriente","276 284","ocr",2,0,1,0,0,FALSE
+"164:50:6","Michoac<U+00E1>n","en_poblaciones","vacunos_valor_suma","84 620 983","ocr",2,0,0,0,0,FALSE
+"164:50:7","Michoac<U+00E1>n","en_poblaciones","vacunos_valor_fino","11 396 814","ocr",1,0,0,0,0,FALSE
+"164:50:8","Michoac<U+00E1>n","en_poblaciones","vacunos_valor_corriente","73 224 169","ocr",1,0,0,0,0,FALSE
+"164:51:3","Morelos","total","vacunos_cabezas_suma","99 849","ocr",1,0,0,0,0,FALSE
+"164:52:3","Morelos","mayores_5ha","vacunos_cabezas_suma","6 187","ocr",1,0,0,0,0,FALSE
+"164:52:5","Morelos","mayores_5ha","vacunos_cabezas_corriente","5 867","ocr",1,0,0,0,0,FALSE
+"164:52:6","Morelos","mayores_5ha","vacunos_valor_suma","1 877 675","ocr",1,0,0,0,0,FALSE
+"164:52:8","Morelos","mayores_5ha","vacunos_valor_corriente","1 664 225","ocr",1,0,0,0,0,FALSE
+"164:53:3","Morelos","hasta_5ha","vacunos_cabezas_suma","11 460","ocr",2,0,0,0,0,FALSE
+"164:53:5","Morelos","hasta_5ha","vacunos_cabezas_corriente","11 436","ocr",2,0,0,0,0,FALSE
+"164:53:6","Morelos","hasta_5ha","vacunos_valor_suma","4 064 475","ocr",2,0,0,0,0,FALSE
+"164:53:7","Morelos","hasta_5ha","vacunos_valor_fino","19 500","ocr",1,0,0,0,0,FALSE
+"164:53:8","Morelos","hasta_5ha","vacunos_valor_corriente","4 044 975","ocr",1,0,0,0,0,FALSE
+"164:54:3","Morelos","ejidos","vacunos_cabezas_suma","38 191","ocr",2,0,0,0,0,FALSE
+"164:54:5","Morelos","ejidos","vacunos_cabezas_corriente","37 197","ocr",1,0,0,0,0,FALSE
+"164:54:6","Morelos","ejidos","vacunos_valor_suma","10 996 510","ocr",2,0,0,0,0,FALSE
+"164:54:7","Morelos","ejidos","vacunos_valor_fino","421 450","ocr",1,0,0,0,0,FALSE
+"164:55:3","Morelos","en_poblaciones","vacunos_cabezas_suma","44 011","ocr",1,0,0,0,0,FALSE
+"164:55:4","Morelos","en_poblaciones","vacunos_cabezas_fino","4 766","ocr",2,0,0,0,0,FALSE
+"164:55:5","Morelos","en_poblaciones","vacunos_cabezas_corriente","39 245","ocr",2,0,0,0,0,FALSE
+"164:55:6","Morelos","en_poblaciones","vacunos_valor_suma","18 399 650","ocr",2,0,0,0,0,FALSE
+"164:55:7","Morelos","en_poblaciones","vacunos_valor_fino","4 160 150","ocr",1,0,0,0,0,FALSE
+"164:55:8","Morelos","en_poblaciones","vacunos_valor_corriente","14 239 500","ocr",1,0,0,0,0,FALSE
+"164:56:3","Puebla","total","vacunos_cabezas_suma","343 116","ocr",1,0,0,0,0,FALSE
+"164:56:6","Puebla","total","vacunos_valor_suma","110 187 901","ocr",0,0,1,0,0,FALSE
+"164:57:3","Puebla","mayores_5ha","vacunos_cabezas_suma","105 991","ocr",1,0,0,0,0,FALSE
+"164:57:5","Puebla","mayores_5ha","vacunos_cabezas_corriente","87 280","ocr",1,0,0,0,0,FALSE
+"164:57:6","Puebla","mayores_5ha","vacunos_valor_suma","32 771 229","ocr",1,0,1,0,0,FALSE
+"164:57:8","Puebla","mayores_5ha","vacunos_valor_corriente","21 274 133","ocr",1,0,0,0,0,FALSE
+"164:58:3","Puebla","hasta_5ha","vacunos_cabezas_suma","54 748","ocr",2,0,0,0,0,FALSE
+"164:58:5","Puebla","hasta_5ha","vacunos_cabezas_corriente","50 706","ocr",2,0,0,0,0,FALSE
+"164:58:6","Puebla","hasta_5ha","vacunos_valor_suma","19 513 250","ocr",2,0,1,0,0,FALSE
+"164:58:7","Puebla","hasta_5ha","vacunos_valor_fino","3 992 071","ocr",1,0,0,0,0,FALSE
+"164:58:8","Puebla","hasta_5ha","vacunos_valor_corriente","15 521 179","ocr",1,0,0,0,0,FALSE
+"164:59:3","Puebla","ejidos","vacunos_cabezas_suma","65 009","ocr",2,0,0,0,0,FALSE
+"164:59:5","Puebla","ejidos","vacunos_cabezas_corriente","60 374","ocr",1,0,0,0,0,FALSE
+"164:59:6","Puebla","ejidos","vacunos_valor_suma","18 294 815","ocr",2,0,1,0,0,FALSE
+"164:59:7","Puebla","ejidos","vacunos_valor_fino","2 764 430","ocr",1,0,0,0,0,FALSE
+"164:5:3","Guerrero","en_poblaciones","vacunos_cabezas_suma","211 048","ocr",1,0,0,0,0,FALSE
+"164:5:4","Guerrero","en_poblaciones","vacunos_cabezas_fino","12 263","ocr",1,0,0,0,0,FALSE
+"164:5:5","Guerrero","en_poblaciones","vacunos_cabezas_corriente","198 785","ocr",1,0,0,0,0,FALSE
+"164:5:6","Guerrero","en_poblaciones","vacunos_valor_suma","46 315 054","ocr",1,0,0,0,0,FALSE
+"164:5:7","Guerrero","en_poblaciones","vacunos_valor_fino","5 895 940","ocr",1,0,0,0,0,FALSE
+"164:5:8","Guerrero","en_poblaciones","vacunos_valor_corriente","40 419 114","ocr",2,0,0,0,0,FALSE
+"164:60:3","Puebla","en_poblaciones","vacunos_cabezas_suma","117 368","ocr",1,0,0,0,0,FALSE
+"164:60:4","Puebla","en_poblaciones","vacunos_cabezas_fino","18 481","ocr",2,0,0,0,0,FALSE
+"164:60:5","Puebla","en_poblaciones","vacunos_cabezas_corriente","98 887","ocr",2,0,0,0,0,FALSE
+"164:60:7","Puebla","en_poblaciones","vacunos_valor_fino","12 866 735","ocr",1,0,0,1,0,FALSE
+"164:60:8","Puebla","en_poblaciones","vacunos_valor_corriente","26 741 872","ocr",1,0,0,1,0,FALSE
+"164:6:3","Oaxaca","total","vacunos_cabezas_suma","435 981","ocr",1,0,0,0,0,FALSE
+"164:7:3","Oaxaca","mayores_5ha","vacunos_cabezas_suma","111 685","ocr",1,0,0,0,0,FALSE
+"164:7:5","Oaxaca","mayores_5ha","vacunos_cabezas_corriente","105 937","ocr",1,0,0,0,0,FALSE
+"164:7:6","Oaxaca","mayores_5ha","vacunos_valor_suma","20 441 795","ocr",1,0,0,0,0,FALSE
+"164:7:8","Oaxaca","mayores_5ha","vacunos_valor_corriente","18 161 545","ocr",1,0,0,0,0,FALSE
+"164:8:3","Oaxaca","hasta_5ha","vacunos_cabezas_suma","95 175","ocr",2,0,0,0,0,FALSE
+"164:8:5","Oaxaca","hasta_5ha","vacunos_cabezas_corriente","94 816","ocr",2,0,0,0,0,FALSE
+"164:8:6","Oaxaca","hasta_5ha","vacunos_valor_suma","17 434 589","ocr",1,0,0,0,0,FALSE
+"164:8:7","Oaxaca","hasta_5ha","vacunos_valor_fino","169 053","ocr",1,0,0,0,0,FALSE
+"164:8:8","Oaxaca","hasta_5ha","vacunos_valor_corriente","17 265 536","ocr",2,0,0,0,0,FALSE
+"164:9:3","Oaxaca","ejidos","vacunos_cabezas_suma","81 349","ocr",1,0,0,0,0,FALSE
+"164:9:5","Oaxaca","ejidos","vacunos_cabezas_corriente","80 563","ocr",2,0,0,0,0,FALSE
+"164:9:6","Oaxaca","ejidos","vacunos_valor_suma","12 863 059","ocr",1,0,0,0,0,FALSE
+"165:10:3","Tlaxcala","en_poblaciones","vacunos_cabezas_suma","13 438","ocr",1,0,0,0,0,FALSE
+"165:10:4","Tlaxcala","en_poblaciones","vacunos_cabezas_fino","1 947","ocr",2,0,0,0,0,FALSE
+"165:10:5","Tlaxcala","en_poblaciones","vacunos_cabezas_corriente","11 491","ocr",2,0,0,0,0,FALSE
+"165:10:6","Tlaxcala","en_poblaciones","vacunos_valor_suma","5 507 400","ocr",2,0,0,0,0,FALSE
+"165:10:7","Tlaxcala","en_poblaciones","vacunos_valor_fino","1 708 550","ocr",1,0,1,0,0,FALSE
+"165:10:8","Tlaxcala","en_poblaciones","vacunos_valor_corriente","3 798 850","ocr",1,0,0,0,0,FALSE
+"165:1:3","Quer<U+00E9>taro","total","vacunos_cabezas_suma","101 700","ocr",1,0,0,0,0,FALSE
+"165:1:4","Quer<U+00E9>taro","total","vacunos_cabezas_fino","8 344","ocr",0,0,1,0,0,FALSE
+"165:2:3","Quer<U+00E9>taro","mayores_5ha","vacunos_cabezas_suma","23 104","ocr",1,0,0,0,0,FALSE
+"165:2:4","Quer<U+00E9>taro","mayores_5ha","vacunos_cabezas_fino","4 308","ocr",0,0,1,0,0,FALSE
+"165:2:5","Quer<U+00E9>taro","mayores_5ha","vacunos_cabezas_corriente","18 796","ocr",1,0,0,0,0,FALSE
+"165:2:6","Quer<U+00E9>taro","mayores_5ha","vacunos_valor_suma","6 905 493","ocr",1,0,0,0,0,FALSE
+"165:2:8","Quer<U+00E9>taro","mayores_5ha","vacunos_valor_corriente","4 075 695","ocr",1,0,0,0,0,FALSE
+"165:3:3","Quer<U+00E9>taro","hasta_5ha","vacunos_cabezas_suma","9 676","ocr",2,0,0,0,0,FALSE
+"165:3:4","Quer<U+00E9>taro","hasta_5ha","vacunos_cabezas_fino","69","ocr",0,0,1,0,0,FALSE
+"165:3:5","Quer<U+00E9>taro","hasta_5ha","vacunos_cabezas_corriente","9 607","ocr",2,0,0,0,0,FALSE
+"165:3:6","Quer<U+00E9>taro","hasta_5ha","vacunos_valor_suma","2 348 809","ocr",2,0,0,0,0,FALSE
+"165:3:7","Quer<U+00E9>taro","hasta_5ha","vacunos_valor_fino","45 300","ocr",1,0,0,0,0,FALSE
+"165:3:8","Quer<U+00E9>taro","hasta_5ha","vacunos_valor_corriente","2 303 509","ocr",1,0,0,0,0,FALSE
+"165:4:3","Quer<U+00E9>taro","ejidos","vacunos_cabezas_suma","27 225","ocr",2,0,0,0,0,FALSE
+"165:4:4","Quer<U+00E9>taro","ejidos","vacunos_cabezas_fino","102","ocr",0,0,1,0,0,FALSE
+"165:4:5","Quer<U+00E9>taro","ejidos","vacunos_cabezas_corriente","27 123","ocr",1,0,0,0,0,FALSE
+"165:4:6","Quer<U+00E9>taro","ejidos","vacunos_valor_suma","5 730 110","ocr",2,0,0,0,0,FALSE
+"165:4:7","Quer<U+00E9>taro","ejidos","vacunos_valor_fino","40 850","ocr",1,0,0,0,0,FALSE
+"165:5:3","Quer<U+00E9>taro","en_poblaciones","vacunos_cabezas_suma","41 695","ocr",1,0,0,1,0,FALSE
+"165:5:5","Quer<U+00E9>taro","en_poblaciones","vacunos_cabezas_corriente","37 830","ocr",2,0,0,1,0,FALSE
+"165:5:6","Quer<U+00E9>taro","en_poblaciones","vacunos_valor_suma","13 046 925","ocr",2,0,0,0,0,FALSE
+"165:5:7","Quer<U+00E9>taro","en_poblaciones","vacunos_valor_fino","2 963 650","ocr",1,0,0,0,0,FALSE
+"165:5:8","Quer<U+00E9>taro","en_poblaciones","vacunos_valor_corriente","10 083 275","ocr",1,0,0,0,0,FALSE
+"165:6:3","Tlaxcala","total","vacunos_cabezas_suma","42 667","ocr",1,0,0,0,0,FALSE
+"165:6:7","Tlaxcala","total","vacunos_valor_fino","7 598 375","ocr",0,0,1,0,0,FALSE
+"165:7:3","Tlaxcala","mayores_5ha","vacunos_cabezas_suma","9 445","ocr",1,0,0,0,0,FALSE
+"165:7:5","Tlaxcala","mayores_5ha","vacunos_cabezas_corriente","2 139","ocr",1,0,0,0,0,FALSE
+"165:7:6","Tlaxcala","mayores_5ha","vacunos_valor_suma","5 781 385","ocr",1,0,0,0,0,FALSE
+"165:7:7","Tlaxcala","mayores_5ha","vacunos_valor_fino","5 273 200","ocr",0,0,1,0,0,FALSE
+"165:7:8","Tlaxcala","mayores_5ha","vacunos_valor_corriente","508 185","ocr",1,0,0,0,0,FALSE
+"165:8:3","Tlaxcala","hasta_5ha","vacunos_cabezas_suma","2 076","ocr",2,0,0,0,0,FALSE
+"165:8:5","Tlaxcala","hasta_5ha","vacunos_cabezas_corriente","2 027","ocr",2,0,0,0,0,FALSE
+"165:8:6","Tlaxcala","hasta_5ha","vacunos_valor_suma","611 008","ocr",2,0,0,0,0,FALSE
+"165:8:7","Tlaxcala","hasta_5ha","vacunos_valor_fino","38 775","ocr",1,0,1,0,0,FALSE
+"165:8:8","Tlaxcala","hasta_5ha","vacunos_valor_corriente","572 233","ocr",1,0,0,0,0,FALSE
+"165:9:3","Tlaxcala","ejidos","vacunos_cabezas_suma","17 708","ocr",2,0,0,0,0,FALSE
+"165:9:5","Tlaxcala","ejidos","vacunos_cabezas_corriente","16 596","ocr",1,0,0,0,0,FALSE
+"165:9:6","Tlaxcala","ejidos","vacunos_valor_suma","4 455 317","ocr",2,0,0,1,0,FALSE
+"165:9:8","Tlaxcala","ejidos","vacunos_valor_corriente","3 877 467","ocr",0,0,0,1,0,FALSE

@@ -1,0 +1,17 @@
+# Rendered outputs are rebuilt, not versioned
+censo_1950/informe.html
+*_files/
+/.quarto/
+
+# R / Python
+.Rproj.user/
+.Rhistory
+.RData
+__pycache__/
+*.pyc
+.venv/
+
+# System
+Thumbs.db
+desktop.ini
+.DS_Store

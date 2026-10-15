@@ -1,0 +1,9 @@
+obs_id,valor_manual,legibilidad_manual,notas_manual,author_rule,date
+R092,44386,,"Author re-checked the page on 2026-10-14: it prints 44 386, as the four identities implied. Corrects the decision of 2026-10-08, which kept 11 386 as a printed source discrepancy",,2026-10-14
+R019,3492,,"Second look after the arithmetic check: the page prints 3 492 (1/4 ambiguity, same as both readers and OCR)",,2026-10-08
+R087,2,,"Author reads 2 on the page (Claude 2, Codex 3); row, state, region and national fino identities close with 2. Same reading as the logbook of 2026-10-07",,2026-10-08
+162:33:4,441,,"The page prints 441 (OCR read 411). OCR error, not a printed discrepancy: the value closes the row and holding identities (alarms A001, A004, A013, A014)",,2026-10-15
+162:35:4,10876,,"The page prints 10 876 (OCR read 10 870). OCR error, not a printed discrepancy: the value closes the row and holding identities (alarms A002, A004, A009, A010)",,2026-10-15
+163:3:3,2590,,"The page prints 2 590 (OCR read 590, thousands digit lost). OCR error, not a printed discrepancy: the value closes the holding identities (alarms A006, A015, A016)",,2026-10-15
+163:3:5,2583,,"The page prints 2 583 (OCR read 583, thousands digit lost). OCR error, not a printed discrepancy: the value closes the holding identities (alarms A005, A011, A012)",,2026-10-15
+163:29:5,6347,,"The page prints 6 347 (OCR read 347, thousands digit lost). OCR error, not a printed discrepancy: the value closes the holding identities (alarms A003, A007, A008)",,2026-10-15

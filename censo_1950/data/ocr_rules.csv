@@ -1,0 +1,11 @@
+rule_id,scope,operation,pattern,replacement,order,preserve_literal,value_origin,reason,author,date,status
+remove_spaces,cattle_numeric_fields_only,remove_whitespace,whitespace,,1,true,ocr,Remove spaces before numeric parsing; preserve the original text. Amended 2026-10-07: removing thousands separators is not an OCR correction,Alexander Urrego-Mesa,2026-10-06,approved_from_author_chat
+O_to_0,cattle_numeric_fields_only,replace_character,O,0,2,true,ocr_normalizado,Author-approved OCR confusion; a resulting zero remains invalid,Alexander Urrego-Mesa,2026-10-06,approved_from_author_chat
+L_to_1,cattle_numeric_fields_only,replace_character,L,1,3,true,ocr_normalizado,Author-approved OCR confusion; do not alter names or categories,Alexander Urrego-Mesa,2026-10-06,approved_from_author_chat
+G_to_6,cattle_numeric_fields_only,replace_character,G,6,4,true,ocr_normalizado,Author-approved OCR confusion; do not alter names or categories,Alexander Urrego-Mesa,2026-10-06,approved_from_author_chat
+I_to_1,cattle_numeric_fields_only,replace_character,I,1,5,true,ocr_normalizado,Added after the first run of 04_checks.R: pattern seen in unreadable literals,Alexander Urrego-Mesa,2026-10-07,approved_from_author_chat
+bracket_to_1,cattle_numeric_fields_only,replace_character,],1,6,true,ocr_normalizado,Added after the first run of 04_checks.R: pattern seen in unreadable literals,Alexander Urrego-Mesa,2026-10-07,approved_from_author_chat
+J_to_1,cattle_numeric_fields_only,replace_character,J,1,7,true,ocr_normalizado,Added after the first run of 04_checks.R: pattern seen in unreadable literals,Alexander Urrego-Mesa,2026-10-07,approved_from_author_chat
+remove_hyphen,cattle_numeric_fields_only,remove_character,-,,8,true,ocr_normalizado,Added after the first run of 04_checks.R: pattern seen in unreadable literals,Alexander Urrego-Mesa,2026-10-07,approved_from_author_chat
+remove_period,cattle_numeric_fields_only,remove_character,\.,,9,true,ocr_normalizado,Added after the first run of 04_checks.R: pattern seen in unreadable literals,Alexander Urrego-Mesa,2026-10-07,approved_from_author_chat
+remove_comma,cattle_numeric_fields_only,remove_character,",",,10,true,ocr_normalizado,Added after the first run of 04_checks.R: pattern seen in unreadable literals,Alexander Urrego-Mesa,2026-10-07,approved_from_author_chat

@@ -1,0 +1,11 @@
+dimension,source_key,normalized_label,elemento,medida,tipo,unidad,reason,author,date,status
+variable,vacunos_cabezas_suma,vacunos_cabezas_suma,vacunos,cabezas,suma,cabezas,Separate nested column dimensions in the long table,Alexander Urrego-Mesa,2026-10-06,approved_from_author_chat
+variable,vacunos_cabezas_fino,vacunos_cabezas_fino,vacunos,cabezas,fino,cabezas,Separate nested column dimensions in the long table,Alexander Urrego-Mesa,2026-10-06,approved_from_author_chat
+variable,vacunos_cabezas_corriente,vacunos_cabezas_corriente,vacunos,cabezas,corriente,cabezas,Separate nested column dimensions in the long table,Alexander Urrego-Mesa,2026-10-06,approved_from_author_chat
+variable,vacunos_valor_suma,vacunos_valor_suma,vacunos,valor,suma,pesos,Separate nested column dimensions in the long table,Alexander Urrego-Mesa,2026-10-06,approved_from_author_chat
+variable,vacunos_valor_fino,vacunos_valor_fino,vacunos,valor,fino,pesos,Separate nested column dimensions in the long table,Alexander Urrego-Mesa,2026-10-06,approved_from_author_chat
+variable,vacunos_valor_corriente,vacunos_valor_corriente,vacunos,valor,corriente,pesos,Separate nested column dimensions in the long table,Alexander Urrego-Mesa,2026-10-06,approved_from_author_chat
+componente,Mayores de 5 hectáreas,mayores_5ha,,,,,Author-approved holding categories; retain printed label separately,Alexander Urrego-Mesa,2026-10-06,approved_from_author_chat
+componente,De 5 hectáreas o menos,hasta_5ha,,,,,Author-approved holding categories; retain printed label separately,Alexander Urrego-Mesa,2026-10-06,approved_from_author_chat
+componente,Ejidos,ejidos,,,,,Author-approved holding categories; retain printed label separately,Alexander Urrego-Mesa,2026-10-06,approved_from_author_chat
+componente,En las poblaciones,en_poblaciones,,,,,Author-approved holding categories; retain printed label separately,Alexander Urrego-Mesa,2026-10-06,approved_from_author_chat

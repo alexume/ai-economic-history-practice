@@ -1,0 +1,193 @@
+---
+title: "From a checked table to a result"
+subtitle: "Mexico's 1950 agricultural census: cattle"
+author: "Alexander Urrego-Mesa"
+format:
+  html:
+    toc: false
+    embed-resources: true
+    theme: cosmo
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+```{r setup}
+source_cells <- read.csv("data/extracted/long.csv", check.names = FALSE)
+runs <- read.csv("data/review/runs.csv", check.names = FALSE)
+decisions <- read.csv("data/decisions.csv", check.names = FALSE)
+agreement <- read.csv("data/review/reader_agreement.csv", check.names = FALSE)
+round1 <- read.csv("data/review/reread_key.csv", check.names = FALSE)
+round2 <- read.csv("data/review/reread_key_round2.csv", check.names = FALSE)
+author_review <- read.csv("data/review/author_review.csv", check.names = FALSE)
+amended <- runs[runs$run_label == "amended", ]
+first <- runs[runs$run_label == "first", ]
+consolidated <- runs[runs$run_label == "consolidated", ]
+qa <- agreement[agreement$sample == "qa", ]
+checks <- read.csv("data/review/consolidated_check_results.csv", check.names = FALSE)
+automatic <- sum(!grepl("^Author", decisions$evidence))
+image_checks <- decisions[grepl("cell without reread", decisions$evidence), ]
+pending <- sum(is.na(author_review$author_value))
+matches <- function(column) !is.na(author_review[[column]]) &
+  author_review$author_value == author_review[[column]]
+# Exclusive attribution: retain OCR first, then Claude, then Codex, then manual.
+kept_ocr <- matches("ocr_value")
+kept_claude <- !kept_ocr & matches("claude_reading")
+kept_codex <- !kept_ocr & !kept_claude & matches("codex_reading")
+manual <- !kept_ocr & !kept_claude & !kept_codex
+funnel <- data.frame(
+  Stage = c("Printed cattle cells", "Alarm candidates (amended run)",
+            "Reread round 1", "Reread round 2", "Automatic decisions",
+            "Cells sent to author review", "Pending after author review"),
+  Cells = c(nrow(source_cells), amended$n_candidates, nrow(round1),
+            nrow(round2), automatic, nrow(author_review), pending)
+)
+```
+
+## Source and pipeline
+
+The source is the cattle table on printed pages 161–164 (PDF pages 162–165) of
+the 1950 Mexican agricultural census. The [README](README.md) documents the
+source inventory, checks, and decision files. The pipeline preserves each OCR
+literal and applies recorded decisions. Before author review, unresolved cells
+were sent to a stable review file; that file now retains all reviewed cells,
+with each decision beside its original reading.
+
+## Method
+
+At gate A, each cell is mapped by its printed position, which determines its
+geography and holding category; OCR row order does not define the table. At gate
+B, approved OCR rules remove spaces, read `O`, `L`, `G`, `I`, `]`, and `J` as
+digits, and drop stray hyphens, periods, and commas. These rules make a value
+readable, not right. The original literal remains available beside every
+normalized value.
+
+The arithmetic checks apply separately to each printed measure $m$, holding
+$h$, and entity $g$. For cattle heads and pesos, the within-holding identity is
+$S_{g,h,m} = F_{g,h,m} + C_{g,h,m}$, where $S$, $F$, and $C$ denote *suma*,
+*fino*, and *corriente*. The holding identity is
+$X_{g,\text{total},m} = \sum_{h \neq \text{total}} X_{g,h,m}$. Geographic
+aggregation checks states against regions and regions against the nation:
+$X_{r,h,m} = \sum_{g \in r} X_{g,h,m}$, followed by the equivalent sum of
+regions to the national value, $X_{\text{national},h,m} = \sum_r X_{r,h,m}$.
+An identity with any required component missing is not evaluated; a missing
+value is never treated as zero.
+
+Gate C sends unread cells and cells whose row and column checks both fail to a
+review queue, alongside a random no-alarm sample for quality assurance.
+Claude and Codex read each crop blind to the OCR value and to each other's
+reading; the same two-reader blind protocol is repeated in round two on
+companion cells from identities that still fail. At gate D, R2 accepts matching readings only when both identities pass;
+R3 accepts the sole reading that passes both when readers disagree. R4
+reconstructs a unique component as $\hat{x} = T - \sum_{j \neq x} x_j$ and
+accepts it only when the row and column identities both hold. A printed-source
+discrepancy is recorded when OCR and both readers agree, every failing identity
+has $|T - \sum_j x_j|/T < 0.01$, and the published value is retained; a gap of
+at least one percent goes to author review. Otherwise, R5 sends unresolved
+cases to the author. The two closure rules are that a
+companion enters the active queue only if neither reader matches the OCR, and
+that matching queued readings count jointly as provisional values under R2.
+Arithmetic, not the reader, is the arbiter.
+
+## Review funnel
+
+The first OCR policy left `r first$n_pendiente` unread cells,
+`r first$n_alarms` alarms and `r first$n_candidates` candidate cells.
+The amended policy left `r amended$n_pendiente` unread cells and
+`r amended$n_alarms` alarms: making more values readable also made
+more identities evaluable. These two stages are the `first` and `amended` rows
+preserved in `data/review/runs.csv`.
+
+The amended checks identified `r amended$n_candidates` candidate cells from
+`r nrow(source_cells)` printed cells. The review then covered:
+
+```{r}
+knitr::kable(funnel, col.names = c("Stage", "Cells"), caption = "Review funnel")
+```
+
+These stages overlap and refer to different selections; their counts must not
+be added. The first round includes the 30 no-alarm QA cells; the second covers
+96 companion cells. Together they comprise 188 unique crops, each read by both
+agents.
+
+The `r automatic` automatic decisions, `r nrow(author_review)` author decisions
+on the review queue and `r nrow(image_checks)` author corrections of cells outside
+it make `r nrow(decisions)` recorded decisions, preserving each original OCR value.
+After consolidation, `r sum(checks$status == "fail")` of `r nrow(checks)`
+identities fail and `r pending` cells remain pending.
+The earlier closure, preserved in commit `4b2e014`, had 39 decisions and
+26 pending cells (`data/decisions.csv` and the `consolidated` row of
+`data/review/runs.csv` at that commit). Sending those 26 cells to the author
+remains a stage of the process after their decisions have been integrated.
+
+## Claude and Codex
+
+The two readers agreed on `r sum(agreement$readers_agree == "yes")` of
+`r nrow(agreement)` crops. The no-alarm QA sample contains `r nrow(qa)` cells:
+Claude differed from OCR in `r sum(qa$claude_matches_ocr == "no")`, and Codex in
+`r sum(qa$codex_matches_ocr == "no")`. Reader agreement alone does not establish
+that a value matches the printed page; the identities provide an independent
+check.
+
+## State totals
+
+The maps use state totals from the consolidated table. Boundaries are the 2025
+INEGI state geometries; Baja California Sur and Quintana Roo were territories
+in 1950, and Distrito Federal is shown as Mexico City. Grey is the map's
+missing-value colour. All 32 state totals needed for these maps are available;
+there are no pending cells after author review. The retained image legend
+"Grey: pending author review" describes the earlier conditional display rule,
+not the current review status.
+
+```{r maps, out.width="100%", fig.show="hold", fig.cap="State cattle heads; cattle value per head; and the share of heads classified as fino."}
+knitr::include_graphics(c("data/consolidated/map_heads.png",
+                          "data/consolidated/map_value_per_head.png",
+                          "data/consolidated/map_fine_share.png"))
+```
+
+Value per head is total cattle value divided by total cattle heads. Fine share
+is *fino* cattle heads divided by total cattle heads.
+
+## Author review
+
+The author checked `r nrow(author_review)` cells on the printed page and closed
+the review queue: `r sum(kept_ocr)` retain the OCR value,
+`r sum(kept_claude)` adopt Claude's reading, `r sum(kept_codex)` adopt Codex's
+reading, and `r sum(manual)` use a manual value. These counts are exclusive:
+an unchanged OCR value counts as retained even if a reader agrees, and a changed
+value shared by both readers counts with Claude. The author first
+recorded Campeche 162:52:3 as a printed-source discrepancy and kept 11 386; on
+re-checking the page on 14 October the author read 44 386, the value the four
+identities implied, and corrected the decision (D024): one row of
+`data/review/author_review_amendments.csv` and a rerun. The stable queue
+keeps all decisions alongside the readings, with `r pending` pending cells.
+
+For R087 (Sinaloa, 163:38:4), four identities imply 2 once the San Luis Potosí
+OCR error (corrected below) is accounted for in the national identity;
+the row, Sinaloa total and Pacífico Norte identities imply 2 directly.
+For Yucatán 163:15:4 (R019), OCR, both readers and the author's first reading
+were 3192, but the arithmetic implies `r author_review$author_value[author_review$reread_id == "R019"]`
+and a second look at the page confirms it.
+
+After D024, 16 identities still failed. They pointed to four locations and five
+cells that had never been reread, because their alarms appeared only once the
+queue was closed: Tabasco 163:3:3 and 163:3:5, Baja California Sur 163:29:5 and
+San Luis Potosí 162:33:4 and 162:35:4. They looked like printed discrepancies.
+On 15 October the author checked the five cells against the page image: the page
+prints the value the identities imply in every case, so all five were OCR
+errors, not discrepancies in the source.
+
+```{r}
+knitr::kable(data.frame(Cell = image_checks$cell, OCR = image_checks$ocr_literal,
+                        Page = format(image_checks$decided_value, big.mark = " "),
+                        Decision = image_checks$decision_id),
+             caption = "Cells corrected against the page image (15 October 2026)")
+```
+
+The OCR lost the thousands digit in Tabasco and Baja California Sur and read
+4 as 1 and 6 as 0 in San Luis Potosí. Each correction is one row of
+`data/review/author_review_amendments.csv` under the signed rule
+`decision_cell_amendment` (`data/check_policy.csv`): the author may correct a
+cell that was never reread by checking it against the image. No value was set
+to force an identity: the page was read, and the identities confirmed the reading.
