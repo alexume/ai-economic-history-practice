@@ -3,10 +3,18 @@ title: "From a checked table to a result"
 subtitle: "Mexico's 1950 agricultural census: cattle"
 author: "Alexander Urrego-Mesa"
 format:
-  html:
-    toc: false
-    embed-resources: true
-    theme: cosmo
+  pdf:
+    pdf-engine: xelatex
+    documentclass: article
+    papersize: a4
+    fontsize: 11pt
+    geometry:
+      - margin=2.5cm
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    colorlinks: true
+    keep-tex: true
 execute:
   echo: false
   warning: false

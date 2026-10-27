@@ -1,5 +1,7 @@
 # Rendered outputs are rebuilt, not versioned
 censo_1950/informe.html
+censo_1950/informe.pdf
+censo_1950/informe.tex
 *_files/
 /.quarto/
 
